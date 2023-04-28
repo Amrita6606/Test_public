@@ -1,0 +1,6003 @@
+{
+"select DISTINCT RNC_eNodeB  ,L3,Latitude,Longitude  from INODM.nir_cellid_agg": [
+	{
+		"RNC_eNodeB" : 981,
+		"L3" : "South Yorkshire",
+		"Latitude" : 53.387843353403234,
+		"Longitude" : -1.4517587262291471
+	},
+	{
+		"RNC_eNodeB" : 50087,
+		"L3" : "Hampshire",
+		"Latitude" : 50.84678310381178,
+		"Longitude" : -1.0970165577699948
+	},
+	{
+		"RNC_eNodeB" : 629,
+		"L3" : "Westminster",
+		"Latitude" : 51.496320522716395,
+		"Longitude" : -0.14667110498308955
+	},
+	{
+		"RNC_eNodeB" : 399,
+		"L3" : "Havering",
+		"Latitude" : 51.56566586956553,
+		"Longitude" : 0.1760993745953619
+	},
+	{
+		"RNC_eNodeB" : 7576,
+		"L3" : "West Sussex",
+		"Latitude" : 50.78660179261044,
+		"Longitude" : -0.6582865338239678
+	},
+	{
+		"RNC_eNodeB" : 1655,
+		"L3" : "Hampshire",
+		"Latitude" : 51.29183890191753,
+		"Longitude" : -0.758664125526654
+	},
+	{
+		"RNC_eNodeB" : 1107,
+		"L3" : "Kent",
+		"Latitude" : 51.27629949696859,
+		"Longitude" : 0.5266344105459395
+	},
+	{
+		"RNC_eNodeB" : 7993,
+		"L3" : "South Yorkshire",
+		"Latitude" : 53.369145245282475,
+		"Longitude" : -1.4919488234390654
+	},
+	{
+		"RNC_eNodeB" : 2924,
+		"L3" : "West Yorkshire",
+		"Latitude" : 53.80008213232595,
+		"Longitude" : -1.7893320533400732
+	},
+	{
+		"RNC_eNodeB" : 1281,
+		"L3" : "West Yorkshire",
+		"Latitude" : 53.802779628626105,
+		"Longitude" : -1.5443632790901605
+	},
+	{
+		"RNC_eNodeB" : 7261,
+		"L3" : "West Yorkshire",
+		"Latitude" : 53.749293534847,
+		"Longitude" : -1.7369834788316711
+	},
+	{
+		"RNC_eNodeB" : 13339,
+		"L3" : "Haringey",
+		"Latitude" : 51.57012924790094,
+		"Longitude" : -0.11042071875076534
+	},
+	{
+		"RNC_eNodeB" : 1962,
+		"L3" : "Kent",
+		"Latitude" : 51.28629912322897,
+		"Longitude" : 0.5797947942227026
+	},
+	{
+		"RNC_eNodeB" : 51323,
+		"L3" : "Essex",
+		"Latitude" : 51.595783714973116,
+		"Longitude" : 0.5575706071188393
+	},
+	{
+		"RNC_eNodeB" : 522,
+		"L3" : "Westminster",
+		"Latitude" : 51.52420747942232,
+		"Longitude" : -0.143657346860628
+	},
+	{
+		"RNC_eNodeB" : 5493,
+		"L3" : "Hillingdon",
+		"Latitude" : 51.468720939262624,
+		"Longitude" : -0.4192681998076034
+	},
+	{
+		"RNC_eNodeB" : 4534,
+		"L3" : "Surrey",
+		"Latitude" : 51.393829772490584,
+		"Longitude" : -0.48715779564222533
+	},
+	{
+		"RNC_eNodeB" : 1343,
+		"L3" : "Hertfordshire",
+		"Latitude" : 51.68258494723964,
+		"Longitude" : -0.03718435281170873
+	},
+	{
+		"RNC_eNodeB" : 4332,
+		"L3" : "Hertfordshire",
+		"Latitude" : 51.80851497616193,
+		"Longitude" : -0.4147819927584796
+	},
+	{
+		"RNC_eNodeB" : 11644,
+		"L3" : "Bedfordshire",
+		"Latitude" : 51.967775720946456,
+		"Longitude" : -0.523654184504331
+	},
+	{
+		"RNC_eNodeB" : 1050,
+		"L3" : "Hertfordshire",
+		"Latitude" : 51.74702714887559,
+		"Longitude" : -0.22998585700021945
+	},
+	{
+		"RNC_eNodeB" : 9801,
+		"L3" : "Thurrock",
+		"Latitude" : 51.51568889655968,
+		"Longitude" : 0.4580769617821662
+	},
+	{
+		"RNC_eNodeB" : 51094,
+		"L3" : "Oxfordshire",
+		"Latitude" : 51.45616515626098,
+		"Longitude" : -0.9715261598242341
+	},
+	{
+		"RNC_eNodeB" : 5371,
+		"L3" : "Essex",
+		"Latitude" : 52.02242330545054,
+		"Longitude" : 0.22439725192995688
+	},
+	{
+		"RNC_eNodeB" : 5018,
+		"L3" : "Kent",
+		"Latitude" : 51.34291008478915,
+		"Longitude" : 0.5049101743358293
+	},
+	{
+		"RNC_eNodeB" : 1235,
+		"L3" : "Bournemouth",
+		"Latitude" : 50.741799503346385,
+		"Longitude" : -1.838140168942903
+	},
+	{
+		"RNC_eNodeB" : 4347,
+		"L3" : "Hertfordshire",
+		"Latitude" : 51.77208563675557,
+		"Longitude" : -0.42548775966748115
+	},
+	{
+		"RNC_eNodeB" : 6920,
+		"L3" : "Kent",
+		"Latitude" : 51.41601837154783,
+		"Longitude" : 0.22466889922596203
+	},
+	{
+		"RNC_eNodeB" : 11244,
+		"L3" : "Essex",
+		"Latitude" : 51.743744618498184,
+		"Longitude" : 0.1365811428928167
+	},
+	{
+		"RNC_eNodeB" : 3539,
+		"L3" : "Berkshire",
+		"Latitude" : 51.409992501187425,
+		"Longitude" : -0.7877087278414213
+	},
+	{
+		"RNC_eNodeB" : 8268,
+		"L3" : "Bedfordshire",
+		"Latitude" : 51.91087200261913,
+		"Longitude" : -0.4951505223945304
+	},
+	{
+		"RNC_eNodeB" : 14241,
+		"L3" : "Bexley",
+		"Latitude" : 51.45043449692926,
+		"Longitude" : 0.10378547970083692
+	},
+	{
+		"RNC_eNodeB" : 7976,
+		"L3" : "Leicestershire",
+		"Latitude" : 52.67957735498639,
+		"Longitude" : -1.2883279095762823
+	},
+	{
+		"RNC_eNodeB" : 4377,
+		"L3" : "Derby",
+		"Latitude" : 52.93870061673653,
+		"Longitude" : -1.4844018288729757
+	},
+	{
+		"RNC_eNodeB" : 12069,
+		"L3" : "Lincolnshire",
+		"Latitude" : 52.81419488780613,
+		"Longitude" : -0.13514152204203253
+	},
+	{
+		"RNC_eNodeB" : 4010,
+		"L3" : "Derbyshire",
+		"Latitude" : 52.9803921907379,
+		"Longitude" : -1.2953244977986993
+	},
+	{
+		"RNC_eNodeB" : 5046,
+		"L3" : "Bristol",
+		"Latitude" : 51.40762125482413,
+		"Longitude" : -2.5749428783073696
+	},
+	{
+		"RNC_eNodeB" : 1417,
+		"L3" : "Derbyshire",
+		"Latitude" : 52.90769860846492,
+		"Longitude" : -1.2995514712242944
+	},
+	{
+		"RNC_eNodeB" : 2493,
+		"L3" : "Bristol",
+		"Latitude" : 51.46016588523517,
+		"Longitude" : -2.582800257545591
+	},
+	{
+		"RNC_eNodeB" : 1247,
+		"L3" : "Derby",
+		"Latitude" : 52.89706299024627,
+		"Longitude" : -1.4506801223167514
+	},
+	{
+		"RNC_eNodeB" : 10835,
+		"L3" : "Derbyshire",
+		"Latitude" : 53.26496114477081,
+		"Longitude" : -1.30932345138403
+	},
+	{
+		"RNC_eNodeB" : 2710,
+		"L3" : "Manchester",
+		"Latitude" : 53.43126901256029,
+		"Longitude" : -2.208386358505391
+	},
+	{
+		"RNC_eNodeB" : 3429,
+		"L3" : "Edinburgh",
+		"Latitude" : 55.95456634048153,
+		"Longitude" : -3.187522345217492
+	},
+	{
+		"RNC_eNodeB" : 2348,
+		"L3" : "Renfrewshire",
+		"Latitude" : 55.859112848550815,
+		"Longitude" : -4.4120030970276805
+	},
+	{
+		"RNC_eNodeB" : 5255,
+		"L3" : "North Yorkshire",
+		"Latitude" : 53.95653393570159,
+		"Longitude" : -1.5344566936456658
+	},
+	{
+		"RNC_eNodeB" : 7543,
+		"L3" : "Glasgow",
+		"Latitude" : 55.84418316260278,
+		"Longitude" : -4.255041803587071
+	},
+	{
+		"RNC_eNodeB" : 13169,
+		"L3" : "East Riding of Yorkshire",
+		"Latitude" : 53.84510903277869,
+		"Longitude" : -0.40720094183063127
+	},
+	{
+		"RNC_eNodeB" : 5699,
+		"L3" : "South Yorkshire",
+		"Latitude" : 53.40907489013672,
+		"Longitude" : -1.312410134748979
+	},
+	{
+		"RNC_eNodeB" : 2178,
+		"L3" : "South Yorkshire",
+		"Latitude" : 53.518771669290764,
+		"Longitude" : -1.176340424138828
+	},
+	{
+		"RNC_eNodeB" : 2189,
+		"L3" : "South Yorkshire",
+		"Latitude" : 53.39347435496648,
+		"Longitude" : -1.2853205916019328
+	},
+	{
+		"RNC_eNodeB" : 7003,
+		"L3" : "Renfrewshire",
+		"Latitude" : 55.8454713965362,
+		"Longitude" : -4.489814975126734
+	},
+	{
+		"RNC_eNodeB" : 975,
+		"L3" : "Tyne and Wear",
+		"Latitude" : 54.97054992074965,
+		"Longitude" : -1.6184564999078932
+	},
+	{
+		"RNC_eNodeB" : 6301,
+		"L3" : "Fife",
+		"Latitude" : 56.13455259166478,
+		"Longitude" : -3.3103307341607873
+	},
+	{
+		"RNC_eNodeB" : 9484,
+		"L3" : "Renfrewshire",
+		"Latitude" : 55.838612708974196,
+		"Longitude" : -4.518836476896294
+	},
+	{
+		"RNC_eNodeB" : 1147,
+		"L3" : "Manchester",
+		"Latitude" : 53.57280913661802,
+		"Longitude" : -2.440806189170895
+	},
+	{
+		"RNC_eNodeB" : 6182,
+		"L3" : "West Yorkshire",
+		"Latitude" : 53.850506485392856,
+		"Longitude" : -1.5454380108977637
+	},
+	{
+		"RNC_eNodeB" : 1880,
+		"L3" : "Glasgow",
+		"Latitude" : 55.847105295922645,
+		"Longitude" : -4.084119343077669
+	},
+	{
+		"RNC_eNodeB" : 14165,
+		"L3" : "Tower Hamlets",
+		"Latitude" : 51.50696650949798,
+		"Longitude" : -0.011091724188552962
+	},
+	{
+		"RNC_eNodeB" : 50103,
+		"L3" : "Hertfordshire",
+		"Latitude" : 51.67460202757491,
+		"Longitude" : -0.3945704344224462
+	},
+	{
+		"RNC_eNodeB" : 50650,
+		"L3" : "Luton",
+		"Latitude" : 51.88550323120434,
+		"Longitude" : -0.44597778274408295
+	},
+	{
+		"RNC_eNodeB" : 14201,
+		"L3" : "East Sussex",
+		"Latitude" : 50.792251171738165,
+		"Longitude" : 0.01230017566137928
+	},
+	{
+		"RNC_eNodeB" : 49543,
+		"L3" : "West Yorkshire",
+		"Latitude" : 53.719325580209905,
+		"Longitude" : -1.7881087163103013
+	},
+	{
+		"RNC_eNodeB" : 9571,
+		"L3" : "Kingston upon Hull",
+		"Latitude" : 53.712961974250355,
+		"Longitude" : -0.44852309719050193
+	},
+	{
+		"RNC_eNodeB" : 50515,
+		"L3" : "Stockton-on-Tees",
+		"Latitude" : 54.56058906093714,
+		"Longitude" : -1.310740754758095
+	},
+	{
+		"RNC_eNodeB" : 50508,
+		"L3" : "Manchester",
+		"Latitude" : 53.42716067388363,
+		"Longitude" : -2.212305696112739
+	},
+	{
+		"RNC_eNodeB" : 859,
+		"L3" : "Cardiff",
+		"Latitude" : 51.488057906282656,
+		"Longitude" : -3.165467039572481
+	},
+	{
+		"RNC_eNodeB" : 901,
+		"L3" : "Bristol",
+		"Latitude" : 51.47964010381274,
+		"Longitude" : -2.575296890853814
+	},
+	{
+		"RNC_eNodeB" : 51320,
+		"L3" : "Hillingdon",
+		"Latitude" : 51.48779114991345,
+		"Longitude" : -0.43827114444737875
+	},
+	{
+		"RNC_eNodeB" : 1641,
+		"L3" : "Enfield",
+		"Latitude" : 51.58068706479629,
+		"Longitude" : -0.2421517191678022
+	},
+	{
+		"RNC_eNodeB" : 3714,
+		"L3" : "Essex",
+		"Latitude" : 51.65890387651186,
+		"Longitude" : 0.10987511259017356
+	},
+	{
+		"RNC_eNodeB" : 1697,
+		"L3" : "Essex",
+		"Latitude" : 51.73186905535222,
+		"Longitude" : 0.47103120569590573
+	},
+	{
+		"RNC_eNodeB" : 1697,
+		"L3" : "Essex",
+		"Latitude" : 51.7321580162849,
+		"Longitude" : 0.47115594733338134
+	},
+	{
+		"RNC_eNodeB" : 11644,
+		"L3" : "Bedfordshire",
+		"Latitude" : 51.984938534511436,
+		"Longitude" : -0.5307206134732053
+	},
+	{
+		"RNC_eNodeB" : 4157,
+		"L3" : "Cambridgeshire",
+		"Latitude" : 52.23485131162216,
+		"Longitude" : 0.14929640425190407
+	},
+	{
+		"RNC_eNodeB" : 933,
+		"L3" : "Luton",
+		"Latitude" : 51.90299054335731,
+		"Longitude" : -0.47941775090183697
+	},
+	{
+		"RNC_eNodeB" : 933,
+		"L3" : "Luton",
+		"Latitude" : 51.892789254775955,
+		"Longitude" : -0.46874074353773637
+	},
+	{
+		"RNC_eNodeB" : 9313,
+		"L3" : "Cambridgeshire",
+		"Latitude" : 52.275879359875695,
+		"Longitude" : 0.4923021377951412
+	},
+	{
+		"RNC_eNodeB" : 3118,
+		"L3" : "Surrey",
+		"Latitude" : 51.330777523605235,
+		"Longitude" : -0.48005743546981205
+	},
+	{
+		"RNC_eNodeB" : 3708,
+		"L3" : "Surrey",
+		"Latitude" : 51.34715976825446,
+		"Longitude" : -0.4849704334395601
+	},
+	{
+		"RNC_eNodeB" : 3251,
+		"L3" : "West Midlands",
+		"Latitude" : 52.400215010276575,
+		"Longitude" : -1.9594126339501043
+	},
+	{
+		"RNC_eNodeB" : 4368,
+		"L3" : "Worcestershire",
+		"Latitude" : 52.41376155989279,
+		"Longitude" : -1.9731107577245834
+	},
+	{
+		"RNC_eNodeB" : 12640,
+		"L3" : "West Midlands",
+		"Latitude" : 52.40859920628563,
+		"Longitude" : -1.9502253459425307
+	},
+	{
+		"RNC_eNodeB" : 9002,
+		"L3" : "Northamptonshire",
+		"Latitude" : 52.20362629711891,
+		"Longitude" : -0.9249959515637435
+	},
+	{
+		"RNC_eNodeB" : 2652,
+		"L3" : "West Midlands",
+		"Latitude" : 52.507677307590036,
+		"Longitude" : -1.8158602960715455
+	},
+	{
+		"RNC_eNodeB" : 10835,
+		"L3" : "Derbyshire",
+		"Latitude" : 53.26531309115354,
+		"Longitude" : -1.3089321589812108
+	},
+	{
+		"RNC_eNodeB" : 6643,
+		"L3" : "Manchester",
+		"Latitude" : 53.475942832813345,
+		"Longitude" : -2.217881864104549
+	},
+	{
+		"RNC_eNodeB" : 4601,
+		"L3" : "Manchester",
+		"Latitude" : 53.48763440669628,
+		"Longitude" : -2.3558364663765023
+	},
+	{
+		"RNC_eNodeB" : 14239,
+		"L3" : "Kingston upon Hull",
+		"Latitude" : 53.74574479955855,
+		"Longitude" : -0.37951797227720496
+	},
+	{
+		"RNC_eNodeB" : 6925,
+		"L3" : "Manchester",
+		"Latitude" : 53.48291009343866,
+		"Longitude" : -2.3903636427699047
+	},
+	{
+		"RNC_eNodeB" : 14237,
+		"L3" : "Manchester",
+		"Latitude" : 53.47093793835431,
+		"Longitude" : -2.2472582866908453
+	},
+	{
+		"RNC_eNodeB" : 4108,
+		"L3" : "Edinburgh",
+		"Latitude" : 55.9221353786412,
+		"Longitude" : -3.3083149722972927
+	},
+	{
+		"RNC_eNodeB" : 4475,
+		"L3" : "Tyne and Wear",
+		"Latitude" : 55.03440106745691,
+		"Longitude" : -1.5692122914500302
+	},
+	{
+		"RNC_eNodeB" : 767,
+		"L3" : "Kensington and Chelsea",
+		"Latitude" : 51.51955511580481,
+		"Longitude" : -0.19941384206971105
+	},
+	{
+		"RNC_eNodeB" : 649,
+		"L3" : "Hounslow",
+		"Latitude" : 51.470317301926016,
+		"Longitude" : -0.35544820489662415
+	},
+	{
+		"RNC_eNodeB" : 2950,
+		"L3" : "West Sussex",
+		"Latitude" : 51.061991828595474,
+		"Longitude" : -0.33441110129153423
+	},
+	{
+		"RNC_eNodeB" : 268,
+		"L3" : "Berkshire",
+		"Latitude" : 51.45838548473199,
+		"Longitude" : -0.9266160484186379
+	},
+	{
+		"RNC_eNodeB" : 7978,
+		"L3" : "West Sussex",
+		"Latitude" : 51.10190484554986,
+		"Longitude" : -0.22823205780264175
+	},
+	{
+		"RNC_eNodeB" : 3769,
+		"L3" : "Medway",
+		"Latitude" : 51.378682315312105,
+		"Longitude" : 0.5308194821102326
+	},
+	{
+		"RNC_eNodeB" : 6166,
+		"L3" : "Manchester",
+		"Latitude" : 53.474310815989746,
+		"Longitude" : -2.194210207062734
+	},
+	{
+		"RNC_eNodeB" : 7076,
+		"L3" : "Manchester",
+		"Latitude" : 53.47747068888574,
+		"Longitude" : -2.2373207684839165
+	},
+	{
+		"RNC_eNodeB" : 5312,
+		"L3" : "Merseyside",
+		"Latitude" : 53.497630385665204,
+		"Longitude" : -2.9478166511466912
+	},
+	{
+		"RNC_eNodeB" : 270,
+		"L3" : "Berkshire",
+		"Latitude" : 51.45556797215703,
+		"Longitude" : -0.8968292664593067
+	},
+	{
+		"RNC_eNodeB" : 3092,
+		"L3" : "South Yorkshire",
+		"Latitude" : 53.42310738586277,
+		"Longitude" : -1.2533544802576717
+	},
+	{
+		"RNC_eNodeB" : 1704,
+		"L3" : "West Yorkshire",
+		"Latitude" : 53.67741867751671,
+		"Longitude" : -1.6260969329763342
+	},
+	{
+		"RNC_eNodeB" : 2042,
+		"L3" : "Manchester",
+		"Latitude" : 53.45590098006722,
+		"Longitude" : -2.198560191339229
+	},
+	{
+		"RNC_eNodeB" : 13287,
+		"L3" : "Ealing",
+		"Latitude" : 51.51422865258398,
+		"Longitude" : -0.25035802673783236
+	},
+	{
+		"RNC_eNodeB" : 396,
+		"L3" : "Hammersmith and Fulham",
+		"Latitude" : 51.513481398856214,
+		"Longitude" : -0.215805455894124
+	},
+	{
+		"RNC_eNodeB" : 14219,
+		"L3" : "Newham",
+		"Latitude" : 51.54838812141668,
+		"Longitude" : -0.009374161389465048
+	},
+	{
+		"RNC_eNodeB" : 681,
+		"L3" : "Wandsworth",
+		"Latitude" : 51.426367447901654,
+		"Longitude" : -0.16360620236835968
+	},
+	{
+		"RNC_eNodeB" : 12952,
+		"L3" : "Harrow",
+		"Latitude" : 51.57550312309265,
+		"Longitude" : -0.323913014318049
+	},
+	{
+		"RNC_eNodeB" : 743,
+		"L3" : "Hillingdon",
+		"Latitude" : 51.52098526021806,
+		"Longitude" : -0.41639895917147945
+	},
+	{
+		"RNC_eNodeB" : 11402,
+		"L3" : "Berkshire",
+		"Latitude" : 51.406987155356056,
+		"Longitude" : -0.6642249887127701
+	},
+	{
+		"RNC_eNodeB" : 4909,
+		"L3" : "Surrey",
+		"Latitude" : 51.23744879270855,
+		"Longitude" : -0.6034595631553155
+	},
+	{
+		"RNC_eNodeB" : 1537,
+		"L3" : "Essex",
+		"Latitude" : 51.76638046132135,
+		"Longitude" : 0.15408993554821257
+	},
+	{
+		"RNC_eNodeB" : 8231,
+		"L3" : "Surrey",
+		"Latitude" : 51.13077582510544,
+		"Longitude" : -0.6357248043309909
+	},
+	{
+		"RNC_eNodeB" : 9002,
+		"L3" : "Northamptonshire",
+		"Latitude" : 52.19646973703422,
+		"Longitude" : -0.9401995595351222
+	},
+	{
+		"RNC_eNodeB" : 14199,
+		"L3" : "West Midlands",
+		"Latitude" : 52.44929454569914,
+		"Longitude" : -1.7123570932182752
+	},
+	{
+		"RNC_eNodeB" : 639,
+		"L3" : "Brent",
+		"Latitude" : 51.5554791431801,
+		"Longitude" : -0.30078975209856734
+	},
+	{
+		"RNC_eNodeB" : 392,
+		"L3" : "Brent",
+		"Latitude" : 51.55800464525963,
+		"Longitude" : -0.28917036503521354
+	},
+	{
+		"RNC_eNodeB" : 1909,
+		"L3" : "Glasgow",
+		"Latitude" : 55.82742075117665,
+		"Longitude" : -4.263584448212164
+	},
+	{
+		"RNC_eNodeB" : 747,
+		"L3" : "Lambeth",
+		"Latitude" : 51.42729971589742,
+		"Longitude" : -0.12070429457512888
+	},
+	{
+		"RNC_eNodeB" : 398,
+		"L3" : "Waltham Forest",
+		"Latitude" : 51.55445720773583,
+		"Longitude" : 0.021528411302377936
+	},
+	{
+		"RNC_eNodeB" : 3075,
+		"L3" : "Hertfordshire",
+		"Latitude" : 51.62721386197132,
+		"Longitude" : -0.5187374666564417
+	},
+	{
+		"RNC_eNodeB" : 372,
+		"L3" : "Southwark",
+		"Latitude" : 51.49779955712972,
+		"Longitude" : -0.07979468129861846
+	},
+	{
+		"RNC_eNodeB" : 3379,
+		"L3" : "Derbyshire",
+		"Latitude" : 53.26549124176061,
+		"Longitude" : -1.427992373395067
+	},
+	{
+		"RNC_eNodeB" : 1739,
+		"L3" : "Bournemouth",
+		"Latitude" : 50.71917577584585,
+		"Longitude" : -1.8881296123750213
+	},
+	{
+		"RNC_eNodeB" : 401,
+		"L3" : "Kingston upon Thames",
+		"Latitude" : 51.413130947464765,
+		"Longitude" : -0.29012725518961
+	},
+	{
+		"RNC_eNodeB" : 7459,
+		"L3" : "Glasgow",
+		"Latitude" : 55.856127259970826,
+		"Longitude" : -4.273581076930466
+	},
+	{
+		"RNC_eNodeB" : 1747,
+		"L3" : "Glasgow",
+		"Latitude" : 55.8693396161518,
+		"Longitude" : -4.262405971767015
+	},
+	{
+		"RNC_eNodeB" : 380,
+		"L3" : "Southwark",
+		"Latitude" : 51.48765432275076,
+		"Longitude" : -0.036875777290288445
+	},
+	{
+		"RNC_eNodeB" : 13002,
+		"L3" : "Southwark",
+		"Latitude" : 51.485332707084126,
+		"Longitude" : -0.03486470116854266
+	},
+	{
+		"RNC_eNodeB" : 9654,
+		"L3" : "Wiltshire",
+		"Latitude" : 51.555058416852525,
+		"Longitude" : -1.914772384831955
+	},
+	{
+		"RNC_eNodeB" : 690,
+		"L3" : "Bristol",
+		"Latitude" : 51.44646469363154,
+		"Longitude" : -2.5774397481760527
+	},
+	{
+		"RNC_eNodeB" : 4097,
+		"L3" : "West Yorkshire",
+		"Latitude" : 53.75699880000455,
+		"Longitude" : -1.7006472338450598
+	},
+	{
+		"RNC_eNodeB" : 6832,
+		"L3" : "Tyne and Wear",
+		"Latitude" : 55.00104364601558,
+		"Longitude" : -1.4813736171150897
+	},
+	{
+		"RNC_eNodeB" : 50737,
+		"L3" : "West Sussex",
+		"Latitude" : 50.786583708259414,
+		"Longitude" : -0.6765470909525808
+	},
+	{
+		"RNC_eNodeB" : 49687,
+		"L3" : "West Yorkshire",
+		"Latitude" : 53.838131687258645,
+		"Longitude" : -1.7695750280203666
+	},
+	{
+		"RNC_eNodeB" : 50341,
+		"L3" : "West Yorkshire",
+		"Latitude" : 53.836309882461045,
+		"Longitude" : -1.7752990169359035
+	},
+	{
+		"RNC_eNodeB" : 50341,
+		"L3" : "West Yorkshire",
+		"Latitude" : 53.83649864496116,
+		"Longitude" : -1.7806155491892528
+	},
+	{
+		"RNC_eNodeB" : 50341,
+		"L3" : "West Yorkshire",
+		"Latitude" : 53.835542986037886,
+		"Longitude" : -1.7735921618786263
+	},
+	{
+		"RNC_eNodeB" : 3296,
+		"L3" : "Derbyshire",
+		"Latitude" : 53.13912375183271,
+		"Longitude" : -1.3309606442909179
+	},
+	{
+		"RNC_eNodeB" : 3697,
+		"L3" : "Northamptonshire",
+		"Latitude" : 52.35355999696727,
+		"Longitude" : -1.1554532388339749
+	},
+	{
+		"RNC_eNodeB" : 5101,
+		"L3" : "Edinburgh",
+		"Latitude" : 55.89837035666183,
+		"Longitude" : -3.096279726845044
+	},
+	{
+		"RNC_eNodeB" : 592,
+		"L3" : "Wandsworth",
+		"Latitude" : 51.47103748737466,
+		"Longitude" : -0.16786503610766937
+	},
+	{
+		"RNC_eNodeB" : 13488,
+		"L3" : "Lambeth",
+		"Latitude" : 51.49833973842989,
+		"Longitude" : -0.104176177613229
+	},
+	{
+		"RNC_eNodeB" : 8187,
+		"L3" : "Brighton and Hove",
+		"Latitude" : 50.825222403017534,
+		"Longitude" : -0.06202898536729207
+	},
+	{
+		"RNC_eNodeB" : 2742,
+		"L3" : "Newham",
+		"Latitude" : 51.54901792411344,
+		"Longitude" : 0.021809397902766085
+	},
+	{
+		"RNC_eNodeB" : 553,
+		"L3" : "Manchester",
+		"Latitude" : 53.47986108778475,
+		"Longitude" : -2.2420143003561064
+	},
+	{
+		"RNC_eNodeB" : 553,
+		"L3" : "Manchester",
+		"Latitude" : 53.48021366770938,
+		"Longitude" : -2.239156224437637
+	},
+	{
+		"RNC_eNodeB" : 1313,
+		"L3" : "South Gloucestershire",
+		"Latitude" : 51.496932045829595,
+		"Longitude" : -2.5858344428501887
+	},
+	{
+		"RNC_eNodeB" : 660,
+		"L3" : "Lewisham",
+		"Latitude" : 51.42664690910933,
+		"Longitude" : -0.01778140677236287
+	},
+	{
+		"RNC_eNodeB" : 13027,
+		"L3" : "Ealing",
+		"Latitude" : 51.53849652497443,
+		"Longitude" : -0.35827080320177385
+	},
+	{
+		"RNC_eNodeB" : 50740,
+		"L3" : "Harrow",
+		"Latitude" : 51.586780863316356,
+		"Longitude" : -0.29787351618760904
+	},
+	{
+		"RNC_eNodeB" : 50428,
+		"L3" : "Lewisham",
+		"Latitude" : 51.42878122369615,
+		"Longitude" : -0.02386426281137197
+	},
+	{
+		"RNC_eNodeB" : 13003,
+		"L3" : "Sutton",
+		"Latitude" : 51.376087894661794,
+		"Longitude" : -0.12058070733322712
+	},
+	{
+		"RNC_eNodeB" : 3284,
+		"L3" : "Croydon",
+		"Latitude" : 51.377033686440086,
+		"Longitude" : -0.033831812663333065
+	},
+	{
+		"RNC_eNodeB" : 7980,
+		"L3" : "Hampshire",
+		"Latitude" : 51.07140225345648,
+		"Longitude" : -1.294582502749063
+	},
+	{
+		"RNC_eNodeB" : 9434,
+		"L3" : "West Midlands",
+		"Latitude" : 52.47040661386574,
+		"Longitude" : -1.8958714588001502
+	},
+	{
+		"RNC_eNodeB" : 4456,
+		"L3" : "South Yorkshire",
+		"Latitude" : 53.44156710103678,
+		"Longitude" : -1.4594877196788618
+	},
+	{
+		"RNC_eNodeB" : 3954,
+		"L3" : "South Yorkshire",
+		"Latitude" : 53.611425156784094,
+		"Longitude" : -0.9671921202320819
+	},
+	{
+		"RNC_eNodeB" : 9730,
+		"L3" : "North Yorkshire",
+		"Latitude" : 54.249303415612204,
+		"Longitude" : -0.3762822627009673
+	},
+	{
+		"RNC_eNodeB" : 6946,
+		"L3" : "Hertfordshire",
+		"Latitude" : 51.68050061517879,
+		"Longitude" : -0.05098525889698488
+	},
+	{
+		"RNC_eNodeB" : 3080,
+		"L3" : "Essex",
+		"Latitude" : 51.75858999587835,
+		"Longitude" : 0.11059852320672836
+	},
+	{
+		"RNC_eNodeB" : 354,
+		"L3" : "Hackney",
+		"Latitude" : 51.558285218615865,
+		"Longitude" : -0.08241307037167771
+	},
+	{
+		"RNC_eNodeB" : 51692,
+		"L3" : "Westminster",
+		"Latitude" : 51.52130491711207,
+		"Longitude" : -0.15790733629709036
+	},
+	{
+		"RNC_eNodeB" : 1688,
+		"L3" : "Peterborough",
+		"Latitude" : 52.62751310116072,
+		"Longitude" : -0.2088927825125173
+	},
+	{
+		"RNC_eNodeB" : 339,
+		"L3" : "Camden",
+		"Latitude" : 51.51898766745112,
+		"Longitude" : -0.1221224246783285
+	},
+	{
+		"RNC_eNodeB" : 1374,
+		"L3" : "Camden",
+		"Latitude" : 51.51235184138393,
+		"Longitude" : -0.12038413033956037
+	},
+	{
+		"RNC_eNodeB" : 1374,
+		"L3" : "Camden",
+		"Latitude" : 51.51226458974566,
+		"Longitude" : -0.12103411275788828
+	},
+	{
+		"RNC_eNodeB" : 339,
+		"L3" : "Camden",
+		"Latitude" : 51.51722786296346,
+		"Longitude" : -0.11996290492893691
+	},
+	{
+		"RNC_eNodeB" : 13181,
+		"L3" : "Westminster",
+		"Latitude" : 51.51168871624012,
+		"Longitude" : -0.1602557883330628
+	},
+	{
+		"RNC_eNodeB" : 363,
+		"L3" : "Hammersmith and Fulham",
+		"Latitude" : 51.52019829370307,
+		"Longitude" : -0.21524250728118624
+	},
+	{
+		"RNC_eNodeB" : 9991,
+		"L3" : "Hillingdon",
+		"Latitude" : 51.55003156773808,
+		"Longitude" : -0.43120483647551466
+	},
+	{
+		"RNC_eNodeB" : 13174,
+		"L3" : "Westminster",
+		"Latitude" : 51.505400162362506,
+		"Longitude" : -0.14545765740711475
+	},
+	{
+		"RNC_eNodeB" : 3858,
+		"L3" : "Buckinghamshire",
+		"Latitude" : 51.523005848851845,
+		"Longitude" : -0.4814203862093562
+	},
+	{
+		"RNC_eNodeB" : 3858,
+		"L3" : "Buckinghamshire",
+		"Latitude" : 51.51978131455817,
+		"Longitude" : -0.47901954285387155
+	},
+	{
+		"RNC_eNodeB" : 12690,
+		"L3" : "Plymouth",
+		"Latitude" : 50.40630607582247,
+		"Longitude" : -4.113915299772506
+	},
+	{
+		"RNC_eNodeB" : 1296,
+		"L3" : "Plymouth",
+		"Latitude" : 50.40871055902565,
+		"Longitude" : -4.100473545595911
+	},
+	{
+		"RNC_eNodeB" : 7231,
+		"L3" : "Plymouth",
+		"Latitude" : 50.39028366009562,
+		"Longitude" : -4.085010974369352
+	},
+	{
+		"RNC_eNodeB" : 14228,
+		"L3" : "Plymouth",
+		"Latitude" : 50.40000811917566,
+		"Longitude" : -4.155428210011504
+	},
+	{
+		"RNC_eNodeB" : 3525,
+		"L3" : "Westminster",
+		"Latitude" : 51.50908571255287,
+		"Longitude" : -0.15565686418789626
+	},
+	{
+		"RNC_eNodeB" : 955,
+		"L3" : "Hackney",
+		"Latitude" : 51.54867078506016,
+		"Longitude" : -0.04599021470043049
+	},
+	{
+		"RNC_eNodeB" : 9846,
+		"L3" : "Tower Hamlets",
+		"Latitude" : 51.52688261988028,
+		"Longitude" : -0.024065253962850464
+	},
+	{
+		"RNC_eNodeB" : 562,
+		"L3" : "Tower Hamlets",
+		"Latitude" : 51.525008999112494,
+		"Longitude" : -0.03680071388648018
+	},
+	{
+		"RNC_eNodeB" : 2162,
+		"L3" : "Waltham Forest",
+		"Latitude" : 51.571054572573956,
+		"Longitude" : 0.01046670061156215
+	},
+	{
+		"RNC_eNodeB" : 2325,
+		"L3" : "Hertfordshire",
+		"Latitude" : 51.77361704396377,
+		"Longitude" : 0.0942496702055545
+	},
+	{
+		"RNC_eNodeB" : 3883,
+		"L3" : "Southampton",
+		"Latitude" : 50.89962985075961,
+		"Longitude" : -1.3961216740505549
+	},
+	{
+		"RNC_eNodeB" : 1471,
+		"L3" : "South Yorkshire",
+		"Latitude" : 53.38026187748955,
+		"Longitude" : -1.4812684686638176
+	},
+	{
+		"RNC_eNodeB" : 10350,
+		"L3" : "Banbridge",
+		"Latitude" : 54.28580387375589,
+		"Longitude" : -6.304875052825574
+	},
+	{
+		"RNC_eNodeB" : 4549,
+		"L3" : "Peterborough",
+		"Latitude" : 52.59072974839336,
+		"Longitude" : -0.20445854360214963
+	},
+	{
+		"RNC_eNodeB" : 6467,
+		"L3" : "Northamptonshire",
+		"Latitude" : 52.3919366002841,
+		"Longitude" : -0.5491195384051623
+	},
+	{
+		"RNC_eNodeB" : 1174,
+		"L3" : "South Yorkshire",
+		"Latitude" : 53.538110461023436,
+		"Longitude" : -1.3005413678071458
+	},
+	{
+		"RNC_eNodeB" : 3583,
+		"L3" : "South Yorkshire",
+		"Latitude" : 53.54259480878624,
+		"Longitude" : -1.188619111803603
+	},
+	{
+		"RNC_eNodeB" : 3716,
+		"L3" : "East Riding of Yorkshire",
+		"Latitude" : 54.08360620534744,
+		"Longitude" : -0.21659877745540362
+	},
+	{
+		"RNC_eNodeB" : 3680,
+		"L3" : "Manchester",
+		"Latitude" : 53.55886739095052,
+		"Longitude" : -2.2459864139556887
+	},
+	{
+		"RNC_eNodeB" : 5242,
+		"L3" : "Manchester",
+		"Latitude" : 53.5320630233959,
+		"Longitude" : -2.315205445517874
+	},
+	{
+		"RNC_eNodeB" : 11495,
+		"L3" : "Manchester",
+		"Latitude" : 53.431170373774314,
+		"Longitude" : -2.3074900235018934
+	},
+	{
+		"RNC_eNodeB" : 6614,
+		"L3" : "North Yorkshire",
+		"Latitude" : 53.940782924559684,
+		"Longitude" : -1.374714499950315
+	},
+	{
+		"RNC_eNodeB" : 2211,
+		"L3" : "Tyne and Wear",
+		"Latitude" : 54.956594433826545,
+		"Longitude" : -1.6726132651845134
+	},
+	{
+		"RNC_eNodeB" : 4211,
+		"L3" : "Tyne and Wear",
+		"Latitude" : 54.936933026570884,
+		"Longitude" : -1.6160975021412136
+	},
+	{
+		"RNC_eNodeB" : 11936,
+		"L3" : "West Yorkshire",
+		"Latitude" : 53.89400548834479,
+		"Longitude" : -1.3675923217679902
+	},
+	{
+		"RNC_eNodeB" : 11936,
+		"L3" : "West Yorkshire",
+		"Latitude" : 53.88440036757832,
+		"Longitude" : -1.3600795380752586
+	},
+	{
+		"RNC_eNodeB" : 5249,
+		"L3" : "Darlington",
+		"Latitude" : 54.529530847952266,
+		"Longitude" : -1.616122132039252
+	},
+	{
+		"RNC_eNodeB" : 4594,
+		"L3" : "Tyne and Wear",
+		"Latitude" : 54.98861208851819,
+		"Longitude" : -1.5913081087989667
+	},
+	{
+		"RNC_eNodeB" : 13277,
+		"L3" : "Manchester",
+		"Latitude" : 53.55273748032282,
+		"Longitude" : -2.2561983116663837
+	},
+	{
+		"RNC_eNodeB" : 1373,
+		"L3" : "Westminster",
+		"Latitude" : 51.5076338691584,
+		"Longitude" : -0.12786599927133946
+	},
+	{
+		"RNC_eNodeB" : 13022,
+		"L3" : "Southampton",
+		"Latitude" : 50.90939615599653,
+		"Longitude" : -1.4010738020670623
+	},
+	{
+		"RNC_eNodeB" : 2117,
+		"L3" : "Enfield",
+		"Latitude" : 51.56877179267145,
+		"Longitude" : -0.23740264155702606
+	},
+	{
+		"RNC_eNodeB" : 9980,
+		"L3" : "Manchester",
+		"Latitude" : 53.58034330540672,
+		"Longitude" : -2.4178557371081517
+	},
+	{
+		"RNC_eNodeB" : 3430,
+		"L3" : "Edinburgh",
+		"Latitude" : 55.95773603695128,
+		"Longitude" : -3.1548463304531276
+	},
+	{
+		"RNC_eNodeB" : 309,
+		"L3" : "West Midlands",
+		"Latitude" : 52.57810379466805,
+		"Longitude" : -2.0153940762646974
+	},
+	{
+		"RNC_eNodeB" : 2540,
+		"L3" : "West Midlands",
+		"Latitude" : 52.57668577282634,
+		"Longitude" : -2.013352863046507
+	},
+	{
+		"RNC_eNodeB" : 3315,
+		"L3" : "West Yorkshire",
+		"Latitude" : 53.86422939959114,
+		"Longitude" : -1.9100836377276964
+	},
+	{
+		"RNC_eNodeB" : 1905,
+		"L3" : "Manchester",
+		"Latitude" : 53.44019600264081,
+		"Longitude" : -2.3312880136013785
+	},
+	{
+		"RNC_eNodeB" : 1425,
+		"L3" : "Milton Keynes",
+		"Latitude" : 52.07650330867858,
+		"Longitude" : -0.737583231849742
+	},
+	{
+		"RNC_eNodeB" : 1205,
+		"L3" : "Lancashire",
+		"Latitude" : 53.92029235887984,
+		"Longitude" : -3.012541113385729
+	},
+	{
+		"RNC_eNodeB" : 5047,
+		"L3" : "Essex",
+		"Latitude" : 51.57592570138507,
+		"Longitude" : 0.3252787524396514
+	},
+	{
+		"RNC_eNodeB" : 1747,
+		"L3" : "Glasgow",
+		"Latitude" : 55.86905328735359,
+		"Longitude" : -4.242790281882604
+	},
+	{
+		"RNC_eNodeB" : 4757,
+		"L3" : "Nottinghamshire",
+		"Latitude" : 53.013543950507106,
+		"Longitude" : -1.2247094500604734
+	},
+	{
+		"RNC_eNodeB" : 2272,
+		"L3" : "Manchester",
+		"Latitude" : 53.48781583801961,
+		"Longitude" : -2.2275513656785306
+	},
+	{
+		"RNC_eNodeB" : 4349,
+		"L3" : "Kensington and Chelsea",
+		"Latitude" : 51.49844575177702,
+		"Longitude" : -0.17966288431865016
+	},
+	{
+		"RNC_eNodeB" : 50963,
+		"L3" : "South Yorkshire",
+		"Latitude" : 53.321400577464004,
+		"Longitude" : -1.4863698493927082
+	},
+	{
+		"RNC_eNodeB" : 51273,
+		"L3" : "Oxfordshire",
+		"Latitude" : 51.72424080790162,
+		"Longitude" : -1.2195557758157152
+	},
+	{
+		"RNC_eNodeB" : 1484,
+		"L3" : "Kingston upon Thames",
+		"Latitude" : 51.37602376794966,
+		"Longitude" : -0.28892367902562915
+	},
+	{
+		"RNC_eNodeB" : 4773,
+		"L3" : "West Sussex",
+		"Latitude" : 50.82029576899943,
+		"Longitude" : -0.5195590936795262
+	},
+	{
+		"RNC_eNodeB" : 7056,
+		"L3" : "Derbyshire",
+		"Latitude" : 53.2857827007647,
+		"Longitude" : -1.294047843834135
+	},
+	{
+		"RNC_eNodeB" : 50205,
+		"L3" : "Derby",
+		"Latitude" : 52.91087017030324,
+		"Longitude" : -1.476888938199066
+	},
+	{
+		"RNC_eNodeB" : 1091,
+		"L3" : "Hertfordshire",
+		"Latitude" : 51.690092882872364,
+		"Longitude" : -0.032641589188956
+	},
+	{
+		"RNC_eNodeB" : 50233,
+		"L3" : "York",
+		"Latitude" : 53.9728325439984,
+		"Longitude" : -1.1417321978756922
+	},
+	{
+		"RNC_eNodeB" : 14160,
+		"L3" : "North Yorkshire",
+		"Latitude" : 54.15062120919828,
+		"Longitude" : -1.3136357056813939
+	},
+	{
+		"RNC_eNodeB" : 695,
+		"L3" : "West Yorkshire",
+		"Latitude" : 53.69088769694314,
+		"Longitude" : -1.631055438678703
+	},
+	{
+		"RNC_eNodeB" : 1739,
+		"L3" : "Bournemouth",
+		"Latitude" : 50.71739185966837,
+		"Longitude" : -1.8799096491771357
+	},
+	{
+		"RNC_eNodeB" : 49723,
+		"L3" : "Berkshire",
+		"Latitude" : 51.4464510442952,
+		"Longitude" : -0.9751582371267485
+	},
+	{
+		"RNC_eNodeB" : 50991,
+		"L3" : "East Riding of Yorkshire",
+		"Latitude" : 54.08942945223015,
+		"Longitude" : -0.18901223827802727
+	},
+	{
+		"RNC_eNodeB" : 7445,
+		"L3" : "Westminster",
+		"Latitude" : 51.49416387375289,
+		"Longitude" : -0.12177998631459076
+	},
+	{
+		"RNC_eNodeB" : 3525,
+		"L3" : "Westminster",
+		"Latitude" : 51.50979603747539,
+		"Longitude" : -0.15044756368717596
+	},
+	{
+		"RNC_eNodeB" : 6532,
+		"L3" : "Edinburgh",
+		"Latitude" : 55.94678948548463,
+		"Longitude" : -3.2054302462866575
+	},
+	{
+		"RNC_eNodeB" : 1503,
+		"L3" : "Brent",
+		"Latitude" : 51.56139601933474,
+		"Longitude" : -0.2825128408219945
+	},
+	{
+		"RNC_eNodeB" : 50400,
+		"L3" : "Swansea",
+		"Latitude" : 51.69736204271193,
+		"Longitude" : -3.8864760758040786
+	},
+	{
+		"RNC_eNodeB" : 856,
+		"L3" : "Tower Hamlets",
+		"Latitude" : 51.52156863984375,
+		"Longitude" : -0.06156071472760544
+	},
+	{
+		"RNC_eNodeB" : 1125,
+		"L3" : "Hertfordshire",
+		"Latitude" : 51.685380613922824,
+		"Longitude" : -0.20305895855833142
+	},
+	{
+		"RNC_eNodeB" : 2745,
+		"L3" : "Northamptonshire",
+		"Latitude" : 52.21351304067606,
+		"Longitude" : -0.9404674265883723
+	},
+	{
+		"RNC_eNodeB" : 49744,
+		"L3" : "West Midlands",
+		"Latitude" : 52.50992944930107,
+		"Longitude" : -1.8031817659618063
+	},
+	{
+		"RNC_eNodeB" : 51311,
+		"L3" : "Glasgow",
+		"Latitude" : 55.87276468063645,
+		"Longitude" : -4.329253900515313
+	},
+	{
+		"RNC_eNodeB" : 50989,
+		"L3" : "South Yorkshire",
+		"Latitude" : 53.52987590122617,
+		"Longitude" : -1.1446686450421912
+	},
+	{
+		"RNC_eNodeB" : 8365,
+		"L3" : "Richmond upon Thames",
+		"Latitude" : 51.46217954305883,
+		"Longitude" : -0.2245236321983355
+	},
+	{
+		"RNC_eNodeB" : 733,
+		"L3" : "Croydon",
+		"Latitude" : 51.359257034061656,
+		"Longitude" : -0.09636675236520095
+	},
+	{
+		"RNC_eNodeB" : 4882,
+		"L3" : "Kent",
+		"Latitude" : 51.4291191385188,
+		"Longitude" : 0.2418188550508529
+	},
+	{
+		"RNC_eNodeB" : 11127,
+		"L3" : "West Sussex",
+		"Latitude" : 50.98581219258281,
+		"Longitude" : -0.19873039461195982
+	},
+	{
+		"RNC_eNodeB" : 2141,
+		"L3" : "Warwickshire",
+		"Latitude" : 52.51584387817955,
+		"Longitude" : -1.4687449248200672
+	},
+	{
+		"RNC_eNodeB" : 7905,
+		"L3" : "Neath Port Talbot",
+		"Latitude" : 51.668470714878424,
+		"Longitude" : -3.803798318178336
+	},
+	{
+		"RNC_eNodeB" : 51018,
+		"L3" : "Warwickshire",
+		"Latitude" : 52.24644533413821,
+		"Longitude" : -1.390891373321626
+	},
+	{
+		"RNC_eNodeB" : 7415,
+		"L3" : "Warwickshire",
+		"Latitude" : 52.18441727825115,
+		"Longitude" : -1.4482913262520143
+	},
+	{
+		"RNC_eNodeB" : 12461,
+		"L3" : "Warwickshire",
+		"Latitude" : 52.292754003786925,
+		"Longitude" : -1.5266582849639037
+	},
+	{
+		"RNC_eNodeB" : 7523,
+		"L3" : "Warwickshire",
+		"Latitude" : 52.20596672146124,
+		"Longitude" : -1.4802029504972758
+	},
+	{
+		"RNC_eNodeB" : 51230,
+		"L3" : "Warwickshire",
+		"Latitude" : 52.52733588047165,
+		"Longitude" : -1.4422025407175365
+	},
+	{
+		"RNC_eNodeB" : 4373,
+		"L3" : "Nottinghamshire",
+		"Latitude" : 52.999195416541404,
+		"Longitude" : -1.280110953855157
+	},
+	{
+		"RNC_eNodeB" : 1819,
+		"L3" : "Bristol",
+		"Latitude" : 51.438835022226506,
+		"Longitude" : -2.602255983225601
+	},
+	{
+		"RNC_eNodeB" : 802,
+		"L3" : "Kensington and Chelsea",
+		"Latitude" : 51.48480671631515,
+		"Longitude" : -0.14811670029580537
+	},
+	{
+		"RNC_eNodeB" : 12882,
+		"L3" : "Camden",
+		"Latitude" : 51.51771939402879,
+		"Longitude" : -0.10455358485606583
+	},
+	{
+		"RNC_eNodeB" : 5314,
+		"L3" : "South Yorkshire",
+		"Latitude" : 53.38863558714348,
+		"Longitude" : -1.52237864348133
+	},
+	{
+		"RNC_eNodeB" : 7280,
+		"L3" : "West Yorkshire",
+		"Latitude" : 53.76629572377207,
+		"Longitude" : -1.7753556886484476
+	},
+	{
+		"RNC_eNodeB" : 10509,
+		"L3" : "Cambridgeshire",
+		"Latitude" : 52.41342163396075,
+		"Longitude" : 0.32153609027949775
+	},
+	{
+		"RNC_eNodeB" : 433,
+		"L3" : "Westminster",
+		"Latitude" : 51.51469364914462,
+		"Longitude" : -0.1345634488613843
+	},
+	{
+		"RNC_eNodeB" : 6528,
+		"L3" : "Nottingham",
+		"Latitude" : 52.93158131327062,
+		"Longitude" : -1.2163924263884272
+	},
+	{
+		"RNC_eNodeB" : 5353,
+		"L3" : "Newham",
+		"Latitude" : 51.551599621380134,
+		"Longitude" : 0.049764465021394845
+	},
+	{
+		"RNC_eNodeB" : 317,
+		"L3" : "Hammersmith and Fulham",
+		"Latitude" : 51.48399111178723,
+		"Longitude" : -0.17076744662646376
+	},
+	{
+		"RNC_eNodeB" : 477,
+		"L3" : "Barking and Dagenham",
+		"Latitude" : 51.54004877480102,
+		"Longitude" : 0.07412910098860809
+	},
+	{
+		"RNC_eNodeB" : 7611,
+		"L3" : "West Midlands",
+		"Latitude" : 52.55679265826294,
+		"Longitude" : -1.9352893476810182
+	},
+	{
+		"RNC_eNodeB" : 4197,
+		"L3" : "West Midlands",
+		"Latitude" : 52.503047471052646,
+		"Longitude" : -1.8281029612770399
+	},
+	{
+		"RNC_eNodeB" : 11820,
+		"L3" : "Northamptonshire",
+		"Latitude" : 52.25595435636733,
+		"Longitude" : -1.0779891291797283
+	},
+	{
+		"RNC_eNodeB" : 4880,
+		"L3" : "Dorset",
+		"Latitude" : 50.74136127538245,
+		"Longitude" : -1.7003475368521863
+	},
+	{
+		"RNC_eNodeB" : 2175,
+		"L3" : "Dorset",
+		"Latitude" : 50.73913044317437,
+		"Longitude" : -1.7498759779016926
+	},
+	{
+		"RNC_eNodeB" : 1940,
+		"L3" : "Manchester",
+		"Latitude" : 53.56176280098198,
+		"Longitude" : -2.4623495227963272
+	},
+	{
+		"RNC_eNodeB" : 4200,
+		"L3" : "Essex",
+		"Latitude" : 51.65543207276481,
+		"Longitude" : 0.06714463122949632
+	},
+	{
+		"RNC_eNodeB" : 4200,
+		"L3" : "Essex",
+		"Latitude" : 51.65009260568005,
+		"Longitude" : 0.08703189246541662
+	},
+	{
+		"RNC_eNodeB" : 1344,
+		"L3" : "Essex",
+		"Latitude" : 51.627275300452894,
+		"Longitude" : 0.047485378375461254
+	},
+	{
+		"RNC_eNodeB" : 4200,
+		"L3" : "Essex",
+		"Latitude" : 51.647106901242964,
+		"Longitude" : 0.06491346834556531
+	},
+	{
+		"RNC_eNodeB" : 3041,
+		"L3" : "Medway",
+		"Latitude" : 51.39329304315098,
+		"Longitude" : 0.5250891217626541
+	},
+	{
+		"RNC_eNodeB" : 288,
+		"L3" : "West Midlands",
+		"Latitude" : 52.50228854775519,
+		"Longitude" : -1.896817493388531
+	},
+	{
+		"RNC_eNodeB" : 49651,
+		"L3" : "Manchester",
+		"Latitude" : 53.57543314170867,
+		"Longitude" : -2.4296190558212767
+	},
+	{
+		"RNC_eNodeB" : 3455,
+		"L3" : "Staffordshire",
+		"Latitude" : 52.95844075767711,
+		"Longitude" : -2.046727004229806
+	},
+	{
+		"RNC_eNodeB" : 50292,
+		"L3" : "Durham",
+		"Latitude" : 54.58583526088149,
+		"Longitude" : -1.563307231130485
+	},
+	{
+		"RNC_eNodeB" : 49655,
+		"L3" : "Hertfordshire",
+		"Latitude" : 51.76332418063765,
+		"Longitude" : -0.43603543079431406
+	},
+	{
+		"RNC_eNodeB" : 50864,
+		"L3" : "Kent",
+		"Latitude" : 51.425611208739824,
+		"Longitude" : 0.3420881140353111
+	},
+	{
+		"RNC_eNodeB" : 398,
+		"L3" : "Newham",
+		"Latitude" : 51.55207789593805,
+		"Longitude" : 0.025588062732931637
+	},
+	{
+		"RNC_eNodeB" : 1427,
+		"L3" : "Nottinghamshire",
+		"Latitude" : 52.998878072175636,
+		"Longitude" : -1.197041139055815
+	},
+	{
+		"RNC_eNodeB" : 1252,
+		"L3" : "Nottingham",
+		"Latitude" : 52.94387959520165,
+		"Longitude" : -1.148681308849821
+	},
+	{
+		"RNC_eNodeB" : 1351,
+		"L3" : "Hillingdon",
+		"Latitude" : 51.48080482910109,
+		"Longitude" : -0.47553794588658344
+	},
+	{
+		"RNC_eNodeB" : 7851,
+		"L3" : "Nottingham",
+		"Latitude" : 52.967338275264915,
+		"Longitude" : -1.1595383408557045
+	},
+	{
+		"RNC_eNodeB" : 2630,
+		"L3" : "Southwark",
+		"Latitude" : 51.462684488963525,
+		"Longitude" : -0.058183347524554604
+	},
+	{
+		"RNC_eNodeB" : 5806,
+		"L3" : "Southwark",
+		"Latitude" : 51.46589050068754,
+		"Longitude" : -0.05590060747803579
+	},
+	{
+		"RNC_eNodeB" : 11500,
+		"L3" : "Cornwall",
+		"Latitude" : 50.2347298133664,
+		"Longitude" : -5.239086022028109
+	},
+	{
+		"RNC_eNodeB" : 5309,
+		"L3" : "South Yorkshire",
+		"Latitude" : 53.51466516271653,
+		"Longitude" : -1.3679388224913742
+	},
+	{
+		"RNC_eNodeB" : 5186,
+		"L3" : "South Yorkshire",
+		"Latitude" : 53.44835335765668,
+		"Longitude" : -1.229033772104589
+	},
+	{
+		"RNC_eNodeB" : 5003,
+		"L3" : "Manchester",
+		"Latitude" : 53.53366186296713,
+		"Longitude" : -2.6508835836999896
+	},
+	{
+		"RNC_eNodeB" : 5081,
+		"L3" : "Manchester",
+		"Latitude" : 53.54651382575105,
+		"Longitude" : -2.6623055062839276
+	},
+	{
+		"RNC_eNodeB" : 50280,
+		"L3" : "West Midlands",
+		"Latitude" : 52.43899456936439,
+		"Longitude" : -1.7767765203538533
+	},
+	{
+		"RNC_eNodeB" : 49547,
+		"L3" : "West Midlands",
+		"Latitude" : 52.474726092622404,
+		"Longitude" : -1.9332011542833905
+	},
+	{
+		"RNC_eNodeB" : 51945,
+		"L3" : "Lincolnshire",
+		"Latitude" : 52.84805646813567,
+		"Longitude" : -0.11645780519473717
+	},
+	{
+		"RNC_eNodeB" : 495,
+		"L3" : "Haringey",
+		"Latitude" : 51.59385120716411,
+		"Longitude" : -0.0697099358186396
+	},
+	{
+		"RNC_eNodeB" : 1885,
+		"L3" : "Hertfordshire",
+		"Latitude" : 51.753064309021575,
+		"Longitude" : -0.3379328415005885
+	},
+	{
+		"RNC_eNodeB" : 994,
+		"L3" : "Bristol",
+		"Latitude" : 51.45703052529968,
+		"Longitude" : -2.582950111220615
+	},
+	{
+		"RNC_eNodeB" : 4536,
+		"L3" : "Nottinghamshire",
+		"Latitude" : 53.03694579062654,
+		"Longitude" : -1.2012587746227963
+	},
+	{
+		"RNC_eNodeB" : 10133,
+		"L3" : "Derbyshire",
+		"Latitude" : 52.80088391967021,
+		"Longitude" : -1.623203822393781
+	},
+	{
+		"RNC_eNodeB" : 11715,
+		"L3" : "Cheshire",
+		"Latitude" : 53.18594150821175,
+		"Longitude" : -2.4393554563575286
+	},
+	{
+		"RNC_eNodeB" : 1252,
+		"L3" : "Nottingham",
+		"Latitude" : 52.9460145282264,
+		"Longitude" : -1.1447589093877655
+	},
+	{
+		"RNC_eNodeB" : 3007,
+		"L3" : "Manchester",
+		"Latitude" : 53.58099652123611,
+		"Longitude" : -2.5301317313149028
+	},
+	{
+		"RNC_eNodeB" : 1240,
+		"L3" : "Edinburgh",
+		"Latitude" : 55.943086134303066,
+		"Longitude" : -3.216370518310607
+	},
+	{
+		"RNC_eNodeB" : 50170,
+		"L3" : "West Midlands",
+		"Latitude" : 52.50002750960099,
+		"Longitude" : -2.014517201823116
+	},
+	{
+		"RNC_eNodeB" : 51973,
+		"L3" : "Nottingham",
+		"Latitude" : 52.99438208140684,
+		"Longitude" : -1.1998736878459373
+	},
+	{
+		"RNC_eNodeB" : 317,
+		"L3" : "Kensington and Chelsea",
+		"Latitude" : 51.4859025591975,
+		"Longitude" : -0.17471255014409443
+	},
+	{
+		"RNC_eNodeB" : 13298,
+		"L3" : "Hammersmith and Fulham",
+		"Latitude" : 51.46951505532922,
+		"Longitude" : -0.2082779102954683
+	},
+	{
+		"RNC_eNodeB" : 2745,
+		"L3" : "Northamptonshire",
+		"Latitude" : 52.2287538107754,
+		"Longitude" : -0.9271060550348245
+	},
+	{
+		"RNC_eNodeB" : 3065,
+		"L3" : "West Midlands",
+		"Latitude" : 52.59585320795704,
+		"Longitude" : -1.9993021793254786
+	},
+	{
+		"RNC_eNodeB" : 9711,
+		"L3" : "Edinburgh",
+		"Latitude" : 55.92831723899967,
+		"Longitude" : -3.0904489877148182
+	},
+	{
+		"RNC_eNodeB" : 6923,
+		"L3" : "Buckinghamshire",
+		"Latitude" : 51.52007029102714,
+		"Longitude" : -0.5082584204039374
+	},
+	{
+		"RNC_eNodeB" : 6185,
+		"L3" : "Nottinghamshire",
+		"Latitude" : 53.094053389714006,
+		"Longitude" : -0.8316480998648909
+	},
+	{
+		"RNC_eNodeB" : 1761,
+		"L3" : "York",
+		"Latitude" : 53.97719744146644,
+		"Longitude" : -1.07012315461815
+	},
+	{
+		"RNC_eNodeB" : 11262,
+		"L3" : "West Yorkshire",
+		"Latitude" : 53.77755326921608,
+		"Longitude" : -1.2999208798162691
+	},
+	{
+		"RNC_eNodeB" : 51054,
+		"L3" : "Nottinghamshire",
+		"Latitude" : 53.12581450616295,
+		"Longitude" : -0.814181649522749
+	},
+	{
+		"RNC_eNodeB" : 2944,
+		"L3" : "Surrey",
+		"Latitude" : 51.24028783491891,
+		"Longitude" : -0.5723931577740883
+	},
+	{
+		"RNC_eNodeB" : 7406,
+		"L3" : "Surrey",
+		"Latitude" : 51.23407617600683,
+		"Longitude" : -0.5746732820215557
+	},
+	{
+		"RNC_eNodeB" : 399,
+		"L3" : "Havering",
+		"Latitude" : 51.56682276296614,
+		"Longitude" : 0.18696472317901772
+	},
+	{
+		"RNC_eNodeB" : 13109,
+		"L3" : "Havering",
+		"Latitude" : 51.528438480119384,
+		"Longitude" : 0.1905621742565742
+	},
+	{
+		"RNC_eNodeB" : 13163,
+		"L3" : "Havering",
+		"Latitude" : 51.52046323778457,
+		"Longitude" : 0.19278777193485175
+	},
+	{
+		"RNC_eNodeB" : 3255,
+		"L3" : "West Midlands",
+		"Latitude" : 52.45171233026618,
+		"Longitude" : -1.790138228327147
+	},
+	{
+		"RNC_eNodeB" : 2162,
+		"L3" : "Waltham Forest",
+		"Latitude" : 51.568609831481055,
+		"Longitude" : 0.007919923788599957
+	},
+	{
+		"RNC_eNodeB" : 5058,
+		"L3" : "Buckinghamshire",
+		"Latitude" : 51.611692233115846,
+		"Longitude" : -0.5268014698792041
+	},
+	{
+		"RNC_eNodeB" : 3080,
+		"L3" : "Essex",
+		"Latitude" : 51.75416551443518,
+		"Longitude" : 0.11208102004869629
+	},
+	{
+		"RNC_eNodeB" : 51709,
+		"L3" : "Buckinghamshire",
+		"Latitude" : 51.642315880987574,
+		"Longitude" : -0.6187439619206212
+	},
+	{
+		"RNC_eNodeB" : 264,
+		"L3" : "Berkshire",
+		"Latitude" : 51.42310536129243,
+		"Longitude" : -0.9743639400664024
+	},
+	{
+		"RNC_eNodeB" : 51290,
+		"L3" : "West Midlands",
+		"Latitude" : 52.47699521638182,
+		"Longitude" : -1.885349233119448
+	},
+	{
+		"RNC_eNodeB" : 598,
+		"L3" : "West Midlands",
+		"Latitude" : 52.510125989293996,
+		"Longitude" : -1.7873552352846898
+	},
+	{
+		"RNC_eNodeB" : 613,
+		"L3" : "Lewisham",
+		"Latitude" : 51.46492762778346,
+		"Longitude" : -0.0378539473199267
+	},
+	{
+		"RNC_eNodeB" : 1491,
+		"L3" : "Brent",
+		"Latitude" : 51.553160865613684,
+		"Longitude" : -0.2948870630867071
+	},
+	{
+		"RNC_eNodeB" : 1742,
+		"L3" : "West Midlands",
+		"Latitude" : 52.42087737444588,
+		"Longitude" : -1.5445488814913508
+	},
+	{
+		"RNC_eNodeB" : 1756,
+		"L3" : "Stockton-on-Tees",
+		"Latitude" : 54.55824394458923,
+		"Longitude" : -1.1913137762755206
+	},
+	{
+		"RNC_eNodeB" : 50689,
+		"L3" : "York",
+		"Latitude" : 53.947636445426866,
+		"Longitude" : -1.075380674872549
+	},
+	{
+		"RNC_eNodeB" : 50889,
+		"L3" : "North Yorkshire",
+		"Latitude" : 54.43730300990018,
+		"Longitude" : -1.3239270601308708
+	},
+	{
+		"RNC_eNodeB" : 2939,
+		"L3" : "Durham",
+		"Latitude" : 54.83345180678653,
+		"Longitude" : -1.365796453924293
+	},
+	{
+		"RNC_eNodeB" : 1112,
+		"L3" : "Tyne and Wear",
+		"Latitude" : 54.88884801742671,
+		"Longitude" : -1.3640200110957446
+	},
+	{
+		"RNC_eNodeB" : 5813,
+		"L3" : "West Yorkshire",
+		"Latitude" : 53.762390961210656,
+		"Longitude" : -1.4948636533524613
+	},
+	{
+		"RNC_eNodeB" : 2143,
+		"L3" : "Tyne and Wear",
+		"Latitude" : 55.00874056591671,
+		"Longitude" : -1.6646978550000318
+	},
+	{
+		"RNC_eNodeB" : 12567,
+		"L3" : "West Yorkshire",
+		"Latitude" : 53.742921324531906,
+		"Longitude" : -1.6755744305469638
+	},
+	{
+		"RNC_eNodeB" : 1827,
+		"L3" : "West Midlands",
+		"Latitude" : 52.41123593449906,
+		"Longitude" : -1.5217456458874903
+	},
+	{
+		"RNC_eNodeB" : 4225,
+		"L3" : "Middlesbrough",
+		"Latitude" : 54.569459936566304,
+		"Longitude" : -1.2443668958028955
+	},
+	{
+		"RNC_eNodeB" : 11020,
+		"L3" : "Surrey",
+		"Latitude" : 51.348207998785114,
+		"Longitude" : -0.5405764775271613
+	},
+	{
+		"RNC_eNodeB" : 5503,
+		"L3" : "Leicester",
+		"Latitude" : 52.618592890658356,
+		"Longitude" : -1.122872258883645
+	},
+	{
+		"RNC_eNodeB" : 6333,
+		"L3" : "West Midlands",
+		"Latitude" : 52.39099606354762,
+		"Longitude" : -1.5516689770832182
+	},
+	{
+		"RNC_eNodeB" : 863,
+		"L3" : "Leicester",
+		"Latitude" : 52.62559950807897,
+		"Longitude" : -1.0899060985542854
+	},
+	{
+		"RNC_eNodeB" : 1575,
+		"L3" : "Leicester",
+		"Latitude" : 52.603980314306746,
+		"Longitude" : -1.1419271172860241
+	},
+	{
+		"RNC_eNodeB" : 10559,
+		"L3" : "Devon",
+		"Latitude" : 50.64683585979321,
+		"Longitude" : -3.5567092394828794
+	},
+	{
+		"RNC_eNodeB" : 905,
+		"L3" : "Leicester",
+		"Latitude" : 52.62639626687629,
+		"Longitude" : -1.1303257227310657
+	},
+	{
+		"RNC_eNodeB" : 1322,
+		"L3" : "Merseyside",
+		"Latitude" : 53.40627495279525,
+		"Longitude" : -2.988234995949356
+	},
+	{
+		"RNC_eNodeB" : 6413,
+		"L3" : "Ealing",
+		"Latitude" : 51.52490363288356,
+		"Longitude" : -0.2582810023824148
+	},
+	{
+		"RNC_eNodeB" : 4057,
+		"L3" : "Thurrock",
+		"Latitude" : 51.459286459156075,
+		"Longitude" : 0.2555870128453601
+	},
+	{
+		"RNC_eNodeB" : 4722,
+		"L3" : "Oxfordshire",
+		"Latitude" : 51.76161236102486,
+		"Longitude" : -1.1962615287238891
+	},
+	{
+		"RNC_eNodeB" : 8109,
+		"L3" : "Westminster",
+		"Latitude" : 51.51289389106194,
+		"Longitude" : -0.1591288729043372
+	},
+	{
+		"RNC_eNodeB" : 3134,
+		"L3" : "Buckinghamshire",
+		"Latitude" : 51.616373683170394,
+		"Longitude" : -0.8053038164218451
+	},
+	{
+		"RNC_eNodeB" : 405,
+		"L3" : "Wandsworth",
+		"Latitude" : 51.43553776091124,
+		"Longitude" : -0.1584476052585515
+	},
+	{
+		"RNC_eNodeB" : 1288,
+		"L3" : "West Midlands",
+		"Latitude" : 52.520391879978504,
+		"Longitude" : -1.9939600658596681
+	},
+	{
+		"RNC_eNodeB" : 9246,
+		"L3" : "Lewisham",
+		"Latitude" : 51.46566939148325,
+		"Longitude" : -0.013777692892708318
+	},
+	{
+		"RNC_eNodeB" : 13329,
+		"L3" : "Lambeth",
+		"Latitude" : 51.46041711338955,
+		"Longitude" : -0.13356251313207954
+	},
+	{
+		"RNC_eNodeB" : 2631,
+		"L3" : "Thurrock",
+		"Latitude" : 51.46350946604127,
+		"Longitude" : 0.35392603889537083
+	},
+	{
+		"RNC_eNodeB" : 644,
+		"L3" : "Hammersmith and Fulham",
+		"Latitude" : 51.491026808038534,
+		"Longitude" : -0.2213779210634432
+	},
+	{
+		"RNC_eNodeB" : 14190,
+		"L3" : "Camden",
+		"Latitude" : 51.533177673701466,
+		"Longitude" : -0.12743726079992831
+	},
+	{
+		"RNC_eNodeB" : 8578,
+		"L3" : "Essex",
+		"Latitude" : 51.59039357413536,
+		"Longitude" : 0.5161315091886224
+	},
+	{
+		"RNC_eNodeB" : 1529,
+		"L3" : "Bath and North East Somerset",
+		"Latitude" : 51.37818538466182,
+		"Longitude" : -2.359131308118473
+	},
+	{
+		"RNC_eNodeB" : 8146,
+		"L3" : "South Gloucestershire",
+		"Latitude" : 51.50551859909333,
+		"Longitude" : -2.5830254983112386
+	},
+	{
+		"RNC_eNodeB" : 2824,
+		"L3" : "Lancashire",
+		"Latitude" : 53.69645515374785,
+		"Longitude" : -2.2996588239383664
+	},
+	{
+		"RNC_eNodeB" : 51323,
+		"L3" : "Essex",
+		"Latitude" : 51.58668025337848,
+		"Longitude" : 0.5746014533990801
+	},
+	{
+		"RNC_eNodeB" : 9626,
+		"L3" : "Essex",
+		"Latitude" : 51.6831351322395,
+		"Longitude" : 0.5275410705446055
+	},
+	{
+		"RNC_eNodeB" : 2705,
+		"L3" : "Southwark",
+		"Latitude" : 51.49212816654409,
+		"Longitude" : -0.04144118986563918
+	},
+	{
+		"RNC_eNodeB" : 901,
+		"L3" : "Bristol",
+		"Latitude" : 51.477332148058665,
+		"Longitude" : -2.5564860574130353
+	},
+	{
+		"RNC_eNodeB" : 5769,
+		"L3" : "Belfast",
+		"Latitude" : 54.60339188160077,
+		"Longitude" : -5.929234253546392
+	},
+	{
+		"RNC_eNodeB" : 5769,
+		"L3" : "Belfast",
+		"Latitude" : 54.598256190920324,
+		"Longitude" : -5.928774735417659
+	},
+	{
+		"RNC_eNodeB" : 50384,
+		"L3" : "West Yorkshire",
+		"Latitude" : 53.914141371830226,
+		"Longitude" : -1.7531413759193748
+	},
+	{
+		"RNC_eNodeB" : 5098,
+		"L3" : "Hillingdon",
+		"Latitude" : 51.52441888435153,
+		"Longitude" : -0.44937490070030406
+	},
+	{
+		"RNC_eNodeB" : 2871,
+		"L3" : "Hillingdon",
+		"Latitude" : 51.50537254173272,
+		"Longitude" : -0.44966699690345785
+	},
+	{
+		"RNC_eNodeB" : 4592,
+		"L3" : "North Lincolnshire",
+		"Latitude" : 53.59719544808259,
+		"Longitude" : -0.6464164694906573
+	},
+	{
+		"RNC_eNodeB" : 50202,
+		"L3" : "West Midlands",
+		"Latitude" : 52.56380256672722,
+		"Longitude" : -2.0122825111316915
+	},
+	{
+		"RNC_eNodeB" : 2267,
+		"L3" : "West Yorkshire",
+		"Latitude" : 53.64620798927101,
+		"Longitude" : -1.788778503960972
+	},
+	{
+		"RNC_eNodeB" : 1235,
+		"L3" : "Dorset",
+		"Latitude" : 50.747731847593144,
+		"Longitude" : -1.8287407635132427
+	},
+	{
+		"RNC_eNodeB" : 4857,
+		"L3" : "Bournemouth",
+		"Latitude" : 50.72191797720419,
+		"Longitude" : -1.8245338403988236
+	},
+	{
+		"RNC_eNodeB" : 5043,
+		"L3" : "Kingston upon Thames",
+		"Latitude" : 51.39689439037509,
+		"Longitude" : -0.24864491771818803
+	},
+	{
+		"RNC_eNodeB" : 2815,
+		"L3" : "Nottingham",
+		"Latitude" : 52.94229283376809,
+		"Longitude" : -1.1281595951727508
+	},
+	{
+		"RNC_eNodeB" : 1466,
+		"L3" : "West Yorkshire",
+		"Latitude" : 53.82636173304828,
+		"Longitude" : -1.6208471629983807
+	},
+	{
+		"RNC_eNodeB" : 7851,
+		"L3" : "Nottingham",
+		"Latitude" : 52.963563623117274,
+		"Longitude" : -1.1729331130615375
+	},
+	{
+		"RNC_eNodeB" : 635,
+		"L3" : "Bexley",
+		"Latitude" : 51.494088510572695,
+		"Longitude" : 0.1581377284736149
+	},
+	{
+		"RNC_eNodeB" : 922,
+		"L3" : "Greenwich",
+		"Latitude" : 51.4499290531504,
+		"Longitude" : 0.057751432691952195
+	},
+	{
+		"RNC_eNodeB" : 4414,
+		"L3" : "Bedfordshire",
+		"Latitude" : 51.92503638136877,
+		"Longitude" : -0.4337435313181518
+	},
+	{
+		"RNC_eNodeB" : 1478,
+		"L3" : "Bromley",
+		"Latitude" : 51.43010063284127,
+		"Longitude" : 0.05225179445019405
+	},
+	{
+		"RNC_eNodeB" : 6979,
+		"L3" : "West Midlands",
+		"Latitude" : 52.55346842076824,
+		"Longitude" : -2.098852203876496
+	},
+	{
+		"RNC_eNodeB" : 6200,
+		"L3" : "Cheshire",
+		"Latitude" : 53.193940191092544,
+		"Longitude" : -2.5337037165854968
+	},
+	{
+		"RNC_eNodeB" : 12818,
+		"L3" : "Cheshire",
+		"Latitude" : 53.29027754072178,
+		"Longitude" : -2.598216850893012
+	},
+	{
+		"RNC_eNodeB" : 50206,
+		"L3" : "Derby",
+		"Latitude" : 52.915734710089374,
+		"Longitude" : -1.4629527080312141
+	},
+	{
+		"RNC_eNodeB" : 10835,
+		"L3" : "Derbyshire",
+		"Latitude" : 53.25160893490767,
+		"Longitude" : -1.3264750818620508
+	},
+	{
+		"RNC_eNodeB" : 3092,
+		"L3" : "South Yorkshire",
+		"Latitude" : 53.42289646087358,
+		"Longitude" : -1.251628595564736
+	},
+	{
+		"RNC_eNodeB" : 3290,
+		"L3" : "Enfield",
+		"Latitude" : 51.64209303085043,
+		"Longitude" : -0.16113840186374212
+	},
+	{
+		"RNC_eNodeB" : 5168,
+		"L3" : "Hammersmith and Fulham",
+		"Latitude" : 51.508749931080146,
+		"Longitude" : -0.20481695632125002
+	},
+	{
+		"RNC_eNodeB" : 50134,
+		"L3" : "Bexley",
+		"Latitude" : 51.4579565926884,
+		"Longitude" : 0.1759645276692476
+	},
+	{
+		"RNC_eNodeB" : 1374,
+		"L3" : "Westminster",
+		"Latitude" : 51.50893496455877,
+		"Longitude" : -0.12492950582254062
+	},
+	{
+		"RNC_eNodeB" : 5367,
+		"L3" : "Thurrock",
+		"Latitude" : 51.51370166188705,
+		"Longitude" : 0.42327265879124354
+	},
+	{
+		"RNC_eNodeB" : 1326,
+		"L3" : "Essex",
+		"Latitude" : 51.58231752798296,
+		"Longitude" : 0.4212125133943848
+	},
+	{
+		"RNC_eNodeB" : 868,
+		"L3" : "Manchester",
+		"Latitude" : 53.507377434217126,
+		"Longitude" : -2.2277690463568742
+	},
+	{
+		"RNC_eNodeB" : 4137,
+		"L3" : "Manchester",
+		"Latitude" : 53.47007302514316,
+		"Longitude" : -2.3452534189900587
+	},
+	{
+		"RNC_eNodeB" : 6327,
+		"L3" : "Manchester",
+		"Latitude" : 53.45082007109208,
+		"Longitude" : -2.3394279722147675
+	},
+	{
+		"RNC_eNodeB" : 9462,
+		"L3" : "Warrington",
+		"Latitude" : 53.42720808373041,
+		"Longitude" : -2.5566955004316365
+	},
+	{
+		"RNC_eNodeB" : 13494,
+		"L3" : "London",
+		"Latitude" : 51.50918723317163,
+		"Longitude" : -0.07510239244204296
+	},
+	{
+		"RNC_eNodeB" : 50831,
+		"L3" : "Manchester",
+		"Latitude" : 53.50723821694872,
+		"Longitude" : -2.3536980957188436
+	},
+	{
+		"RNC_eNodeB" : 6820,
+		"L3" : "Merseyside",
+		"Latitude" : 53.51897853931597,
+		"Longitude" : -2.9386835728970153
+	},
+	{
+		"RNC_eNodeB" : 50171,
+		"L3" : "Merseyside",
+		"Latitude" : 53.45443276540933,
+		"Longitude" : -2.9633782847787744
+	},
+	{
+		"RNC_eNodeB" : 14215,
+		"L3" : "Camden",
+		"Latitude" : 51.53075986500883,
+		"Longitude" : -0.12391946163078738
+	},
+	{
+		"RNC_eNodeB" : 915,
+		"L3" : "Berkshire",
+		"Latitude" : 51.496694142509526,
+		"Longitude" : -0.5458231562927028
+	},
+	{
+		"RNC_eNodeB" : 3744,
+		"L3" : "Essex",
+		"Latitude" : 51.87388117208071,
+		"Longitude" : 0.5328566570651916
+	},
+	{
+		"RNC_eNodeB" : 13356,
+		"L3" : "Northamptonshire",
+		"Latitude" : 52.189562631043984,
+		"Longitude" : -0.9003573172702968
+	},
+	{
+		"RNC_eNodeB" : 4739,
+		"L3" : "Manchester",
+		"Latitude" : 53.42685043242897,
+		"Longitude" : -2.3226947045224144
+	},
+	{
+		"RNC_eNodeB" : 4454,
+		"L3" : "Surrey",
+		"Latitude" : 51.383662977295465,
+		"Longitude" : -0.4981571597793571
+	},
+	{
+		"RNC_eNodeB" : 50988,
+		"L3" : "Warwickshire",
+		"Latitude" : 52.43825568091132,
+		"Longitude" : -1.430602181962419
+	},
+	{
+		"RNC_eNodeB" : 12908,
+		"L3" : "Camden",
+		"Latitude" : 51.52714810474117,
+		"Longitude" : -0.13083392245862188
+	},
+	{
+		"RNC_eNodeB" : 13230,
+		"L3" : "Islington",
+		"Latitude" : 51.52604943249107,
+		"Longitude" : -0.08509460139688861
+	},
+	{
+		"RNC_eNodeB" : 647,
+		"L3" : "Hackney",
+		"Latitude" : 51.5268343660577,
+		"Longitude" : -0.08215944183957771
+	},
+	{
+		"RNC_eNodeB" : 1615,
+		"L3" : "Portsmouth",
+		"Latitude" : 50.821136710751176,
+		"Longitude" : -1.0812523448904305
+	},
+	{
+		"RNC_eNodeB" : 2346,
+		"L3" : "Portsmouth",
+		"Latitude" : 50.814068697363254,
+		"Longitude" : -1.077471830633532
+	},
+	{
+		"RNC_eNodeB" : 521,
+		"L3" : "Westminster",
+		"Latitude" : 51.517704469837874,
+		"Longitude" : -0.14279944839175088
+	},
+	{
+		"RNC_eNodeB" : 50540,
+		"L3" : "Hampshire",
+		"Latitude" : 50.800380398528745,
+		"Longitude" : -1.1385851638485687
+	},
+	{
+		"RNC_eNodeB" : 8236,
+		"L3" : "Berkshire",
+		"Latitude" : 51.49056223507464,
+		"Longitude" : -0.5304763024171661
+	},
+	{
+		"RNC_eNodeB" : 50488,
+		"L3" : "Hertfordshire",
+		"Latitude" : 51.74971806186268,
+		"Longitude" : -0.31399259450712785
+	},
+	{
+		"RNC_eNodeB" : 5254,
+		"L3" : "North Yorkshire",
+		"Latitude" : 53.95776087978582,
+		"Longitude" : -1.3700596138523577
+	},
+	{
+		"RNC_eNodeB" : 13409,
+		"L3" : "Glasgow",
+		"Latitude" : 55.837946215273604,
+		"Longitude" : -4.245888415007081
+	},
+	{
+		"RNC_eNodeB" : 2599,
+		"L3" : "Lambeth",
+		"Latitude" : 51.427920882971215,
+		"Longitude" : -0.09985780431246034
+	},
+	{
+		"RNC_eNodeB" : 7855,
+		"L3" : "South Yorkshire",
+		"Latitude" : 53.35215253055457,
+		"Longitude" : -1.2203043105096527
+	},
+	{
+		"RNC_eNodeB" : 9440,
+		"L3" : "South Yorkshire",
+		"Latitude" : 53.40460344287014,
+		"Longitude" : -0.9173384926758822
+	},
+	{
+		"RNC_eNodeB" : 51120,
+		"L3" : "South Yorkshire",
+		"Latitude" : 53.37480928039551,
+		"Longitude" : -1.2276571011543274
+	},
+	{
+		"RNC_eNodeB" : 975,
+		"L3" : "Tyne and Wear",
+		"Latitude" : 54.97166708596836,
+		"Longitude" : -1.6248459513572238
+	},
+	{
+		"RNC_eNodeB" : 4031,
+		"L3" : "North Somerset",
+		"Latitude" : 51.43932967799022,
+		"Longitude" : -2.82722770003095
+	},
+	{
+		"RNC_eNodeB" : 50835,
+		"L3" : "Hertfordshire",
+		"Latitude" : 51.74499261018272,
+		"Longitude" : -0.26301457153116803
+	},
+	{
+		"RNC_eNodeB" : 2608,
+		"L3" : "Manchester",
+		"Latitude" : 53.483746041349136,
+		"Longitude" : -2.2456317862649757
+	},
+	{
+		"RNC_eNodeB" : 4214,
+		"L3" : "Havering",
+		"Latitude" : 51.56258810020688,
+		"Longitude" : 0.21714976155130053
+	},
+	{
+		"RNC_eNodeB" : 5950,
+		"L3" : "Kent",
+		"Latitude" : 51.384134567850296,
+		"Longitude" : 1.3671652074040483
+	},
+	{
+		"RNC_eNodeB" : 13593,
+		"L3" : "Lewisham",
+		"Latitude" : 51.45872023715142,
+		"Longitude" : 0.009840322753934283
+	},
+	{
+		"RNC_eNodeB" : 13491,
+		"L3" : "Lambeth",
+		"Latitude" : 51.489269660730656,
+		"Longitude" : -0.10475190153319348
+	},
+	{
+		"RNC_eNodeB" : 50114,
+		"L3" : "Croydon",
+		"Latitude" : 51.34778588676565,
+		"Longitude" : -0.011918897101184727
+	},
+	{
+		"RNC_eNodeB" : 4859,
+		"L3" : "Kent",
+		"Latitude" : 51.2803963358088,
+		"Longitude" : 1.092730306014666
+	},
+	{
+		"RNC_eNodeB" : 2754,
+		"L3" : "Redbridge",
+		"Latitude" : 51.5582544587933,
+		"Longitude" : 0.06956842313329127
+	},
+	{
+		"RNC_eNodeB" : 407,
+		"L3" : "Hounslow",
+		"Latitude" : 51.46325790028038,
+		"Longitude" : -0.40894471286344
+	},
+	{
+		"RNC_eNodeB" : 2322,
+		"L3" : "Glasgow",
+		"Latitude" : 55.87038098135631,
+		"Longitude" : -4.30451271988906
+	},
+	{
+		"RNC_eNodeB" : 475,
+		"L3" : "Newham",
+		"Latitude" : 51.5372306588374,
+		"Longitude" : 0.03250981752577976
+	},
+	{
+		"RNC_eNodeB" : 2271,
+		"L3" : "Luton",
+		"Latitude" : 51.88614108076184,
+		"Longitude" : -0.432705330710475
+	},
+	{
+		"RNC_eNodeB" : 11517,
+		"L3" : "Cardiff",
+		"Latitude" : 51.476421182805844,
+		"Longitude" : -3.1868310826165334
+	},
+	{
+		"RNC_eNodeB" : 5299,
+		"L3" : "Shropshire",
+		"Latitude" : 52.731693646210964,
+		"Longitude" : -2.728605268099042
+	},
+	{
+		"RNC_eNodeB" : 51829,
+		"L3" : "Enfield",
+		"Latitude" : 51.60057886616428,
+		"Longitude" : -0.24881162406981427
+	},
+	{
+		"RNC_eNodeB" : 9408,
+		"L3" : "Kingston upon Hull",
+		"Latitude" : 53.75406684914856,
+		"Longitude" : -0.3629544689190277
+	},
+	{
+		"RNC_eNodeB" : 14219,
+		"L3" : "Newham",
+		"Latitude" : 51.548244865820756,
+		"Longitude" : -0.009935231472542758
+	},
+	{
+		"RNC_eNodeB" : 6870,
+		"L3" : "Tower Hamlets",
+		"Latitude" : 51.53393029550584,
+		"Longitude" : -0.013222619606157055
+	},
+	{
+		"RNC_eNodeB" : 1956,
+		"L3" : "Leicester",
+		"Latitude" : 52.65033519068126,
+		"Longitude" : -1.118739697487083
+	},
+	{
+		"RNC_eNodeB" : 6269,
+		"L3" : "Kent",
+		"Latitude" : 51.36458507227901,
+		"Longitude" : 1.1153677839549114
+	},
+	{
+		"RNC_eNodeB" : 959,
+		"L3" : "Cambridgeshire",
+		"Latitude" : 52.21159322852998,
+		"Longitude" : 0.16309120223178555
+	},
+	{
+		"RNC_eNodeB" : 867,
+		"L3" : "Luton",
+		"Latitude" : 51.882821250134015,
+		"Longitude" : -0.419214601179913
+	},
+	{
+		"RNC_eNodeB" : 50257,
+		"L3" : "Hertfordshire",
+		"Latitude" : 51.75865172393269,
+		"Longitude" : -0.2380413132495531
+	},
+	{
+		"RNC_eNodeB" : 12948,
+		"L3" : "Barking and Dagenham",
+		"Latitude" : 51.53133689537287,
+		"Longitude" : 0.12453055904033977
+	},
+	{
+		"RNC_eNodeB" : 2906,
+		"L3" : "Tower Hamlets",
+		"Latitude" : 51.51317713452742,
+		"Longitude" : -0.04951021668543865
+	},
+	{
+		"RNC_eNodeB" : 49558,
+		"L3" : "Manchester",
+		"Latitude" : 53.44814390046858,
+		"Longitude" : -2.191359773412022
+	},
+	{
+		"RNC_eNodeB" : 2941,
+		"L3" : "Enfield",
+		"Latitude" : 51.61193453173402,
+		"Longitude" : -0.036502989944051434
+	},
+	{
+		"RNC_eNodeB" : 3470,
+		"L3" : "West Sussex",
+		"Latitude" : 51.10533680458062,
+		"Longitude" : -0.20576270027091287
+	},
+	{
+		"RNC_eNodeB" : 2751,
+		"L3" : "Poole",
+		"Latitude" : 50.72187802593922,
+		"Longitude" : -2.015677473871841
+	},
+	{
+		"RNC_eNodeB" : 2450,
+		"L3" : "Bristol",
+		"Latitude" : 51.4611484206892,
+		"Longitude" : -2.5716042375713046
+	},
+	{
+		"RNC_eNodeB" : 510,
+		"L3" : "Newham",
+		"Latitude" : 51.552740528218884,
+		"Longitude" : 0.05227971302488464
+	},
+	{
+		"RNC_eNodeB" : 2108,
+		"L3" : "Bedfordshire",
+		"Latitude" : 52.142083103209735,
+		"Longitude" : -0.42622411614283917
+	},
+	{
+		"RNC_eNodeB" : 4569,
+		"L3" : "Bristol",
+		"Latitude" : 51.457803800734354,
+		"Longitude" : -2.575738052307534
+	},
+	{
+		"RNC_eNodeB" : 2789,
+		"L3" : "Lancashire",
+		"Latitude" : 53.84233345508047,
+		"Longitude" : -2.214820249696301
+	},
+	{
+		"RNC_eNodeB" : 2633,
+		"L3" : "Tower Hamlets",
+		"Latitude" : 51.50346583765053,
+		"Longitude" : -0.02072662676982136
+	},
+	{
+		"RNC_eNodeB" : 13172,
+		"L3" : "Tower Hamlets",
+		"Latitude" : 51.515447591715436,
+		"Longitude" : -0.026854867170244587
+	},
+	{
+		"RNC_eNodeB" : 50234,
+		"L3" : "Berkshire",
+		"Latitude" : 51.41199727973358,
+		"Longitude" : -1.1225243900609911
+	},
+	{
+		"RNC_eNodeB" : 5381,
+		"L3" : "West Midlands",
+		"Latitude" : 52.5019750172485,
+		"Longitude" : -1.9348393093519498
+	},
+	{
+		"RNC_eNodeB" : 10540,
+		"L3" : "West Midlands",
+		"Latitude" : 52.49871708937859,
+		"Longitude" : -1.8722567099296097
+	},
+	{
+		"RNC_eNodeB" : 12824,
+		"L3" : "West Yorkshire",
+		"Latitude" : 53.758388568167376,
+		"Longitude" : -1.8935142992908662
+	},
+	{
+		"RNC_eNodeB" : 2453,
+		"L3" : "West Yorkshire",
+		"Latitude" : 53.80011920459024,
+		"Longitude" : -1.7106125148179747
+	},
+	{
+		"RNC_eNodeB" : 3779,
+		"L3" : "Portsmouth",
+		"Latitude" : 50.79612496526496,
+		"Longitude" : -1.0754496113669632
+	},
+	{
+		"RNC_eNodeB" : 621,
+		"L3" : "Newham",
+		"Latitude" : 51.53767360741476,
+		"Longitude" : 0.011568496410934184
+	},
+	{
+		"RNC_eNodeB" : 621,
+		"L3" : "Newham",
+		"Latitude" : 51.536872874055035,
+		"Longitude" : 0.007658687802677649
+	},
+	{
+		"RNC_eNodeB" : 2858,
+		"L3" : "Essex",
+		"Latitude" : 51.53511784440475,
+		"Longitude" : 0.5654261063563445
+	},
+	{
+		"RNC_eNodeB" : 5813,
+		"L3" : "West Yorkshire",
+		"Latitude" : 53.76724522836953,
+		"Longitude" : -1.5108599063250172
+	},
+	{
+		"RNC_eNodeB" : 51307,
+		"L3" : "Essex",
+		"Latitude" : 51.52193047375644,
+		"Longitude" : 0.5972752883419407
+	},
+	{
+		"RNC_eNodeB" : 49502,
+		"L3" : "West Yorkshire",
+		"Latitude" : 53.79123557025874,
+		"Longitude" : -1.787123928244333
+	},
+	{
+		"RNC_eNodeB" : 13483,
+		"L3" : "Islington",
+		"Latitude" : 51.52876715164458,
+		"Longitude" : -0.10590193018833512
+	},
+	{
+		"RNC_eNodeB" : 49748,
+		"L3" : "Lewisham",
+		"Latitude" : 51.42109616327235,
+		"Longitude" : -0.027374253262875563
+	},
+	{
+		"RNC_eNodeB" : 3484,
+		"L3" : "West Midlands",
+		"Latitude" : 52.60161187833639,
+		"Longitude" : -2.106293357920313
+	},
+	{
+		"RNC_eNodeB" : 8442,
+		"L3" : "Inverclyde",
+		"Latitude" : 55.94840103011948,
+		"Longitude" : -4.740297533652973
+	},
+	{
+		"RNC_eNodeB" : 49581,
+		"L3" : "West Yorkshire",
+		"Latitude" : 53.806335697602734,
+		"Longitude" : -1.764521805510454
+	},
+	{
+		"RNC_eNodeB" : 12080,
+		"L3" : "Cumbria",
+		"Latitude" : 54.651028752968486,
+		"Longitude" : -2.7279905152117085
+	},
+	{
+		"RNC_eNodeB" : 9133,
+		"L3" : "Durham",
+		"Latitude" : 54.52551367319657,
+		"Longitude" : -1.9569044069842714
+	},
+	{
+		"RNC_eNodeB" : 10211,
+		"L3" : "Bromley",
+		"Latitude" : 51.34756431542154,
+		"Longitude" : 0.1354417688099888
+	},
+	{
+		"RNC_eNodeB" : 4094,
+		"L3" : "Bexley",
+		"Latitude" : 51.43017631818531,
+		"Longitude" : 0.08270310923087015
+	},
+	{
+		"RNC_eNodeB" : 875,
+		"L3" : "Manchester",
+		"Latitude" : 53.51007120415747,
+		"Longitude" : -2.3328638969662125
+	},
+	{
+		"RNC_eNodeB" : 2508,
+		"L3" : "Surrey",
+		"Latitude" : 51.31173763022756,
+		"Longitude" : -0.42506012223806483
+	},
+	{
+		"RNC_eNodeB" : 9789,
+		"L3" : "Surrey",
+		"Latitude" : 51.16047760395811,
+		"Longitude" : -0.1336229966600179
+	},
+	{
+		"RNC_eNodeB" : 1647,
+		"L3" : "West Yorkshire",
+		"Latitude" : 53.69661276739085,
+		"Longitude" : -1.6315964513516414
+	},
+	{
+		"RNC_eNodeB" : 1647,
+		"L3" : "West Yorkshire",
+		"Latitude" : 53.696646557489245,
+		"Longitude" : -1.6316565917448844
+	},
+	{
+		"RNC_eNodeB" : 2999,
+		"L3" : "West Yorkshire",
+		"Latitude" : 53.67907746506818,
+		"Longitude" : -1.5748082977178752
+	},
+	{
+		"RNC_eNodeB" : 8281,
+		"L3" : "Manchester",
+		"Latitude" : 53.62246801122194,
+		"Longitude" : -2.1352440940146304
+	},
+	{
+		"RNC_eNodeB" : 50300,
+		"L3" : "West Yorkshire",
+		"Latitude" : 53.75000279787864,
+		"Longitude" : -1.6169043683083526
+	},
+	{
+		"RNC_eNodeB" : 12135,
+		"L3" : "Belfast",
+		"Latitude" : 54.597757438636336,
+		"Longitude" : -5.9766006017679105
+	},
+	{
+		"RNC_eNodeB" : 581,
+		"L3" : "Havering",
+		"Latitude" : 51.602090720357175,
+		"Longitude" : 0.21602826154996968
+	},
+	{
+		"RNC_eNodeB" : 472,
+		"L3" : "Lewisham",
+		"Latitude" : 51.479768503043296,
+		"Longitude" : -0.0293874582017645
+	},
+	{
+		"RNC_eNodeB" : 12389,
+		"L3" : "West Midlands",
+		"Latitude" : 52.487040882687275,
+		"Longitude" : -1.8931676889711697
+	},
+	{
+		"RNC_eNodeB" : 12785,
+		"L3" : "Brent",
+		"Latitude" : 51.54042918921919,
+		"Longitude" : -0.19602514639289312
+	},
+	{
+		"RNC_eNodeB" : 2216,
+		"L3" : "Hounslow",
+		"Latitude" : 51.465877056121826,
+		"Longitude" : -0.32747580286512085
+	},
+	{
+		"RNC_eNodeB" : 7665,
+		"L3" : "Bexley",
+		"Latitude" : 51.49772763242108,
+		"Longitude" : 0.11015556546276227
+	},
+	{
+		"RNC_eNodeB" : 746,
+		"L3" : "Kingston upon Thames",
+		"Latitude" : 51.40016923552248,
+		"Longitude" : -0.25646312454561887
+	},
+	{
+		"RNC_eNodeB" : 2165,
+		"L3" : "Newham",
+		"Latitude" : 51.53703647072,
+		"Longitude" : 0.07279758051093231
+	},
+	{
+		"RNC_eNodeB" : 1435,
+		"L3" : "West Midlands",
+		"Latitude" : 52.48273506119054,
+		"Longitude" : -1.7392612260935927
+	},
+	{
+		"RNC_eNodeB" : 13170,
+		"L3" : "West Midlands",
+		"Latitude" : 52.46746156440162,
+		"Longitude" : -1.751470667360011
+	},
+	{
+		"RNC_eNodeB" : 2355,
+		"L3" : "West Midlands",
+		"Latitude" : 52.50090602140864,
+		"Longitude" : -2.0308535499603013
+	},
+	{
+		"RNC_eNodeB" : 3779,
+		"L3" : "Portsmouth",
+		"Latitude" : 50.79956701038707,
+		"Longitude" : -1.080209130197005
+	},
+	{
+		"RNC_eNodeB" : 8180,
+		"L3" : "Cardiff",
+		"Latitude" : 51.51579299839283,
+		"Longitude" : -3.2143873984093565
+	},
+	{
+		"RNC_eNodeB" : 51294,
+		"L3" : "Monmouthshire",
+		"Latitude" : 51.58165532651437,
+		"Longitude" : -2.7769262910024457
+	},
+	{
+		"RNC_eNodeB" : 7355,
+		"L3" : "Richmond upon Thames",
+		"Latitude" : 51.448246376536716,
+		"Longitude" : -0.3243629038333893
+	},
+	{
+		"RNC_eNodeB" : 592,
+		"L3" : "Wandsworth",
+		"Latitude" : 51.464626101610925,
+		"Longitude" : -0.16066932965465403
+	},
+	{
+		"RNC_eNodeB" : 13279,
+		"L3" : "Southwark",
+		"Latitude" : 51.495741428703205,
+		"Longitude" : -0.0827880947379505
+	},
+	{
+		"RNC_eNodeB" : 749,
+		"L3" : "Lambeth",
+		"Latitude" : 51.4646163530412,
+		"Longitude" : -0.12747838671538314
+	},
+	{
+		"RNC_eNodeB" : 13177,
+		"L3" : "Redbridge",
+		"Latitude" : 51.5805883731897,
+		"Longitude" : 0.0878901843894112
+	},
+	{
+		"RNC_eNodeB" : 1988,
+		"L3" : "Essex",
+		"Latitude" : 51.56734038126317,
+		"Longitude" : 0.45920673327152883
+	},
+	{
+		"RNC_eNodeB" : 7079,
+		"L3" : "Merton",
+		"Latitude" : 51.39971157597492,
+		"Longitude" : -0.1685455625146768
+	},
+	{
+		"RNC_eNodeB" : 1867,
+		"L3" : "West Sussex",
+		"Latitude" : 51.117811291716215,
+		"Longitude" : -0.1624027384792269
+	},
+	{
+		"RNC_eNodeB" : 6546,
+		"L3" : "West Midlands",
+		"Latitude" : 52.55636740449685,
+		"Longitude" : -2.066264274132312
+	},
+	{
+		"RNC_eNodeB" : 2976,
+		"L3" : "Merseyside",
+		"Latitude" : 53.48128844153869,
+		"Longitude" : -2.9323146853503617
+	},
+	{
+		"RNC_eNodeB" : 4218,
+		"L3" : "West Yorkshire",
+		"Latitude" : 53.72065081635353,
+		"Longitude" : -1.7330595343899011
+	},
+	{
+		"RNC_eNodeB" : 49527,
+		"L3" : "Redbridge",
+		"Latitude" : 51.55011408816102,
+		"Longitude" : 0.08557047902373992
+	},
+	{
+		"RNC_eNodeB" : 1093,
+		"L3" : "Southwark",
+		"Latitude" : 51.48700798209211,
+		"Longitude" : -0.09548312477946372
+	},
+	{
+		"RNC_eNodeB" : 1233,
+		"L3" : "Enfield",
+		"Latitude" : 51.59000361355844,
+		"Longitude" : -0.20029375440904917
+	},
+	{
+		"RNC_eNodeB" : 367,
+		"L3" : "Lambeth",
+		"Latitude" : 51.48489364461493,
+		"Longitude" : -0.11835796393353676
+	},
+	{
+		"RNC_eNodeB" : 647,
+		"L3" : "Hackney",
+		"Latitude" : 51.527622852520324,
+		"Longitude" : -0.083996176225823
+	},
+	{
+		"RNC_eNodeB" : 592,
+		"L3" : "Wandsworth",
+		"Latitude" : 51.47262577304263,
+		"Longitude" : -0.1680293030621137
+	},
+	{
+		"RNC_eNodeB" : 389,
+		"L3" : "Wandsworth",
+		"Latitude" : 51.462484191617456,
+		"Longitude" : -0.21443132699772852
+	},
+	{
+		"RNC_eNodeB" : 2548,
+		"L3" : "Southwark",
+		"Latitude" : 51.45059067584513,
+		"Longitude" : -0.07174225621889396
+	},
+	{
+		"RNC_eNodeB" : 2165,
+		"L3" : "Barking and Dagenham",
+		"Latitude" : 51.53797498476894,
+		"Longitude" : 0.07845329703563808
+	},
+	{
+		"RNC_eNodeB" : 13593,
+		"L3" : "Greenwich",
+		"Latitude" : 51.45872023715142,
+		"Longitude" : 0.009840322753934283
+	},
+	{
+		"RNC_eNodeB" : 6036,
+		"L3" : "Hillingdon",
+		"Latitude" : 51.52612079427755,
+		"Longitude" : -0.3909602268695685
+	},
+	{
+		"RNC_eNodeB" : 6306,
+		"L3" : "Hounslow",
+		"Latitude" : 51.442299482951675,
+		"Longitude" : -0.41608318320788407
+	},
+	{
+		"RNC_eNodeB" : 4446,
+		"L3" : "Merton",
+		"Latitude" : 51.42295794533441,
+		"Longitude" : -0.19976020668315658
+	},
+	{
+		"RNC_eNodeB" : 1441,
+		"L3" : "Sutton",
+		"Latitude" : 51.36329788263603,
+		"Longitude" : -0.19385609342695753
+	},
+	{
+		"RNC_eNodeB" : 12416,
+		"L3" : "Waltham Forest",
+		"Latitude" : 51.568798273515604,
+		"Longitude" : 7.99670553353517E-4
+	},
+	{
+		"RNC_eNodeB" : 645,
+		"L3" : "Haringey",
+		"Latitude" : 51.593930232845636,
+		"Longitude" : -0.07981308502956286
+	},
+	{
+		"RNC_eNodeB" : 2390,
+		"L3" : "Harrow",
+		"Latitude" : 51.56208708713587,
+		"Longitude" : -0.3700095858733454
+	},
+	{
+		"RNC_eNodeB" : 5200,
+		"L3" : "Havering",
+		"Latitude" : 51.59565237763684,
+		"Longitude" : 0.17931516646776313
+	},
+	{
+		"RNC_eNodeB" : 3041,
+		"L3" : "Medway",
+		"Latitude" : 51.39936630172961,
+		"Longitude" : 0.5140154990764484
+	},
+	{
+		"RNC_eNodeB" : 5899,
+		"L3" : "Surrey",
+		"Latitude" : 51.34541609783367,
+		"Longitude" : -0.2473369149230863
+	},
+	{
+		"RNC_eNodeB" : 12993,
+		"L3" : "Portsmouth",
+		"Latitude" : 50.832730900020884,
+		"Longitude" : -1.0516438307774498
+	},
+	{
+		"RNC_eNodeB" : 50606,
+		"L3" : "Portsmouth",
+		"Latitude" : 50.7874216829424,
+		"Longitude" : -1.0916854006162144
+	},
+	{
+		"RNC_eNodeB" : 2173,
+		"L3" : "Essex",
+		"Latitude" : 51.88751894358517,
+		"Longitude" : 0.8951431958678322
+	},
+	{
+		"RNC_eNodeB" : 4921,
+		"L3" : "Kent",
+		"Latitude" : 51.415745815538074,
+		"Longitude" : 0.36232237842609394
+	},
+	{
+		"RNC_eNodeB" : 1946,
+		"L3" : "Kent",
+		"Latitude" : 51.42628662326016,
+		"Longitude" : 0.3308376091928965
+	},
+	{
+		"RNC_eNodeB" : 12786,
+		"L3" : "Croydon",
+		"Latitude" : 51.32832897410673,
+		"Longitude" : -0.1218249147203455
+	},
+	{
+		"RNC_eNodeB" : 4142,
+		"L3" : "Buckinghamshire",
+		"Latitude" : 51.625549944147004,
+		"Longitude" : -0.7257056151696777
+	},
+	{
+		"RNC_eNodeB" : 5208,
+		"L3" : "Medway",
+		"Latitude" : 51.37407489141069,
+		"Longitude" : 0.5810982188716604
+	},
+	{
+		"RNC_eNodeB" : 12986,
+		"L3" : "Medway",
+		"Latitude" : 51.43352396680379,
+		"Longitude" : 0.621244436593357
+	},
+	{
+		"RNC_eNodeB" : 4864,
+		"L3" : "Kent",
+		"Latitude" : 51.29474673589791,
+		"Longitude" : 1.0988034972180596
+	},
+	{
+		"RNC_eNodeB" : 9420,
+		"L3" : "Hertfordshire",
+		"Latitude" : 51.713267392064004,
+		"Longitude" : -0.26893925425041204
+	},
+	{
+		"RNC_eNodeB" : 9886,
+		"L3" : "Buckinghamshire",
+		"Latitude" : 51.606688681300966,
+		"Longitude" : -0.6969803664268421
+	},
+	{
+		"RNC_eNodeB" : 278,
+		"L3" : "West Midlands",
+		"Latitude" : 52.48762459432294,
+		"Longitude" : -1.9167870956484185
+	},
+	{
+		"RNC_eNodeB" : 4188,
+		"L3" : "West Midlands",
+		"Latitude" : 52.4877330243699,
+		"Longitude" : -1.9832259144389373
+	},
+	{
+		"RNC_eNodeB" : 50308,
+		"L3" : "Warwickshire",
+		"Latitude" : 52.47960189904767,
+		"Longitude" : -1.7088115051345212
+	},
+	{
+		"RNC_eNodeB" : 12017,
+		"L3" : "West Midlands",
+		"Latitude" : 52.472518956097844,
+		"Longitude" : -2.0820945779383684
+	},
+	{
+		"RNC_eNodeB" : 2010,
+		"L3" : "Peterborough",
+		"Latitude" : 52.57291341204658,
+		"Longitude" : -0.24916027940835214
+	},
+	{
+		"RNC_eNodeB" : 4062,
+		"L3" : "Peterborough",
+		"Latitude" : 52.543405175469125,
+		"Longitude" : -0.33040809050073633
+	},
+	{
+		"RNC_eNodeB" : 1328,
+		"L3" : "Bristol",
+		"Latitude" : 51.51289657568515,
+		"Longitude" : -2.6646050810813904
+	},
+	{
+		"RNC_eNodeB" : 14225,
+		"L3" : "Cardiff",
+		"Latitude" : 51.492055097798996,
+		"Longitude" : -3.1551862498968344
+	},
+	{
+		"RNC_eNodeB" : 6292,
+		"L3" : "Cardiff",
+		"Latitude" : 51.46387970322035,
+		"Longitude" : -3.1734758465602098
+	},
+	{
+		"RNC_eNodeB" : 1209,
+		"L3" : "South Gloucestershire",
+		"Latitude" : 51.50890285531316,
+		"Longitude" : -2.659529833405314
+	},
+	{
+		"RNC_eNodeB" : 7556,
+		"L3" : "Leicester",
+		"Latitude" : 52.593855266757714,
+		"Longitude" : -1.0915737140707127
+	},
+	{
+		"RNC_eNodeB" : 11879,
+		"L3" : "West Midlands",
+		"Latitude" : 52.41057805621104,
+		"Longitude" : -1.490347121053114
+	},
+	{
+		"RNC_eNodeB" : 4710,
+		"L3" : "Leicester",
+		"Latitude" : 52.636277299687485,
+		"Longitude" : -1.0717539284540258
+	},
+	{
+		"RNC_eNodeB" : 2958,
+		"L3" : "Leicester",
+		"Latitude" : 52.59247519797886,
+		"Longitude" : -1.1507564773110999
+	},
+	{
+		"RNC_eNodeB" : 14229,
+		"L3" : "Portsmouth",
+		"Latitude" : 50.81931512215725,
+		"Longitude" : -1.040429137962862
+	},
+	{
+		"RNC_eNodeB" : 11625,
+		"L3" : "Portsmouth",
+		"Latitude" : 50.84571479828899,
+		"Longitude" : -1.0573625310173174
+	},
+	{
+		"RNC_eNodeB" : 6782,
+		"L3" : "Devon",
+		"Latitude" : 51.08438527522393,
+		"Longitude" : -4.0596608438695645
+	},
+	{
+		"RNC_eNodeB" : 80042,
+		"L3" : "West Midlands",
+		"Latitude" : 52.47731887327995,
+		"Longitude" : -1.8921219908091922
+	},
+	{
+		"RNC_eNodeB" : 1775,
+		"L3" : "South Yorkshire",
+		"Latitude" : 53.3689241209954,
+		"Longitude" : -1.4809031278351261
+	},
+	{
+		"RNC_eNodeB" : 8227,
+		"L3" : "West Midlands",
+		"Latitude" : 52.48903307907683,
+		"Longitude" : -2.0572222235051205
+	},
+	{
+		"RNC_eNodeB" : 280,
+		"L3" : "West Midlands",
+		"Latitude" : 52.4770835247954,
+		"Longitude" : -1.8979217307597465
+	},
+	{
+		"RNC_eNodeB" : 6547,
+		"L3" : "West Midlands",
+		"Latitude" : 52.564424053485894,
+		"Longitude" : -2.032908388154725
+	},
+	{
+		"RNC_eNodeB" : 2067,
+		"L3" : "Warwickshire",
+		"Latitude" : 52.396668915031135,
+		"Longitude" : -1.4344795151446648
+	},
+	{
+		"RNC_eNodeB" : 1335,
+		"L3" : "West Midlands",
+		"Latitude" : 52.46074569677415,
+		"Longitude" : -2.119803515567847
+	},
+	{
+		"RNC_eNodeB" : 5224,
+		"L3" : "Staffordshire",
+		"Latitude" : 52.78400110403843,
+		"Longitude" : -2.1250157476108043
+	},
+	{
+		"RNC_eNodeB" : 2471,
+		"L3" : "Nottingham",
+		"Latitude" : 52.93581165236353,
+		"Longitude" : -1.1697269047997065
+	},
+	{
+		"RNC_eNodeB" : 569,
+		"L3" : "West Midlands",
+		"Latitude" : 52.59045344799256,
+		"Longitude" : -2.10033229775483
+	},
+	{
+		"RNC_eNodeB" : 10048,
+		"L3" : "Manchester",
+		"Latitude" : 53.4851411361432,
+		"Longitude" : -2.2331559124399445
+	},
+	{
+		"RNC_eNodeB" : 553,
+		"L3" : "Manchester",
+		"Latitude" : 53.479760067968904,
+		"Longitude" : -2.241816649287459
+	},
+	{
+		"RNC_eNodeB" : 13108,
+		"L3" : "Manchester",
+		"Latitude" : 53.46249885405913,
+		"Longitude" : -2.2538945648018
+	},
+	{
+		"RNC_eNodeB" : 5356,
+		"L3" : "Manchester",
+		"Latitude" : 53.594476709493414,
+		"Longitude" : -2.1661201035343396
+	},
+	{
+		"RNC_eNodeB" : 3241,
+		"L3" : "Manchester",
+		"Latitude" : 53.60208443450117,
+		"Longitude" : -2.1796639989843785
+	},
+	{
+		"RNC_eNodeB" : 1308,
+		"L3" : "Manchester",
+		"Latitude" : 53.480276376257464,
+		"Longitude" : -2.0919290650157887
+	},
+	{
+		"RNC_eNodeB" : 2233,
+		"L3" : "Stockton-on-Tees",
+		"Latitude" : 54.57499973620106,
+		"Longitude" : -1.2872872982032548
+	},
+	{
+		"RNC_eNodeB" : 1056,
+		"L3" : "West Yorkshire",
+		"Latitude" : 53.653227114638405,
+		"Longitude" : -1.7861777124545384
+	},
+	{
+		"RNC_eNodeB" : 10068,
+		"L3" : "Warrington",
+		"Latitude" : 53.383699118090995,
+		"Longitude" : -2.653492994607839
+	},
+	{
+		"RNC_eNodeB" : 5602,
+		"L3" : "Warrington",
+		"Latitude" : 53.38831306120137,
+		"Longitude" : -2.625299071073787
+	},
+	{
+		"RNC_eNodeB" : 13272,
+		"L3" : "Lancashire",
+		"Latitude" : 53.80689845874767,
+		"Longitude" : -3.0314576441459082
+	},
+	{
+		"RNC_eNodeB" : 1516,
+		"L3" : "West Dunbartonshire",
+		"Latitude" : 55.91509317301864,
+		"Longitude" : -4.4409369920328965
+	},
+	{
+		"RNC_eNodeB" : 1516,
+		"L3" : "West Dunbartonshire",
+		"Latitude" : 55.90955406396876,
+		"Longitude" : -4.425197721764431
+	},
+	{
+		"RNC_eNodeB" : 895,
+		"L3" : "West Dunbartonshire",
+		"Latitude" : 55.89281899863958,
+		"Longitude" : -4.3569093767866205
+	},
+	{
+		"RNC_eNodeB" : 5093,
+		"L3" : "Perthshire and Kinross",
+		"Latitude" : 56.46653896672888,
+		"Longitude" : -3.067267706591737
+	},
+	{
+		"RNC_eNodeB" : 3926,
+		"L3" : "South Yorkshire",
+		"Latitude" : 53.37078635012087,
+		"Longitude" : -1.3898944546553518
+	},
+	{
+		"RNC_eNodeB" : 14237,
+		"L3" : "Manchester",
+		"Latitude" : 53.470578917815445,
+		"Longitude" : -2.2415988125956106
+	},
+	{
+		"RNC_eNodeB" : 555,
+		"L3" : "Manchester",
+		"Latitude" : 53.47574120060115,
+		"Longitude" : -2.2463480120925206
+	},
+	{
+		"RNC_eNodeB" : 13254,
+		"L3" : "Edinburgh",
+		"Latitude" : 55.93291054407832,
+		"Longitude" : -3.2527808909622626
+	},
+	{
+		"RNC_eNodeB" : 9462,
+		"L3" : "Warrington",
+		"Latitude" : 53.42696805920646,
+		"Longitude" : -2.55722274434527
+	},
+	{
+		"RNC_eNodeB" : 7459,
+		"L3" : "Glasgow",
+		"Latitude" : 55.85550707433223,
+		"Longitude" : -4.274398399277159
+	},
+	{
+		"RNC_eNodeB" : 816,
+		"L3" : "Lancashire",
+		"Latitude" : 53.81036372462949,
+		"Longitude" : -3.0171670180382235
+	},
+	{
+		"RNC_eNodeB" : 5052,
+		"L3" : "Manchester",
+		"Latitude" : 53.380343818050704,
+		"Longitude" : -2.2734699335322435
+	},
+	{
+		"RNC_eNodeB" : 13178,
+		"L3" : "Manchester",
+		"Latitude" : 53.3771546423777,
+		"Longitude" : -2.2613776347137535
+	},
+	{
+		"RNC_eNodeB" : 50803,
+		"L3" : "Fife",
+		"Latitude" : 56.19718002127614,
+		"Longitude" : -3.1696655965844056
+	},
+	{
+		"RNC_eNodeB" : 9780,
+		"L3" : "Dundee",
+		"Latitude" : 56.48796145618691,
+		"Longitude" : -2.9498735426690583
+	},
+	{
+		"RNC_eNodeB" : 3855,
+		"L3" : "Glasgow",
+		"Latitude" : 55.83970037456489,
+		"Longitude" : -4.180578201769343
+	},
+	{
+		"RNC_eNodeB" : 50262,
+		"L3" : "Wrexham",
+		"Latitude" : 53.11526828332281,
+		"Longitude" : -2.9529110463971247
+	},
+	{
+		"RNC_eNodeB" : 1496,
+		"L3" : "Manchester",
+		"Latitude" : 53.56447186490946,
+		"Longitude" : -2.4469453326442787
+	},
+	{
+		"RNC_eNodeB" : 4594,
+		"L3" : "Tyne and Wear",
+		"Latitude" : 54.999023173318484,
+		"Longitude" : -1.589409725566716
+	},
+	{
+		"RNC_eNodeB" : 7964,
+		"L3" : "Manchester",
+		"Latitude" : 53.5596889178661,
+		"Longitude" : -2.124961162076129
+	},
+	{
+		"RNC_eNodeB" : 4111,
+		"L3" : "Falkirk",
+		"Latitude" : 56.01516362558027,
+		"Longitude" : -3.791511461798506
+	},
+	{
+		"RNC_eNodeB" : 11060,
+		"L3" : "Manchester",
+		"Latitude" : 53.53858225467758,
+		"Longitude" : -2.6956913013872246
+	},
+	{
+		"RNC_eNodeB" : 1053,
+		"L3" : "Edinburgh",
+		"Latitude" : 55.97314216429929,
+		"Longitude" : -3.1936227040118483
+	},
+	{
+		"RNC_eNodeB" : 2433,
+		"L3" : "Manchester",
+		"Latitude" : 53.57746506278743,
+		"Longitude" : -2.695542615650174
+	},
+	{
+		"RNC_eNodeB" : 5108,
+		"L3" : "Midlothian",
+		"Latitude" : 55.89252546535404,
+		"Longitude" : -3.066424654551737
+	},
+	{
+		"RNC_eNodeB" : 12313,
+		"L3" : "South Yorkshire",
+		"Latitude" : 53.56638540325043,
+		"Longitude" : -1.2110265224340024
+	},
+	{
+		"RNC_eNodeB" : 4633,
+		"L3" : "Blackburn with Darwen",
+		"Latitude" : 53.74819393350775,
+		"Longitude" : -2.4650900092009405
+	},
+	{
+		"RNC_eNodeB" : 50607,
+		"L3" : "Wandsworth",
+		"Latitude" : 51.44879494257041,
+		"Longitude" : -0.19664389371978133
+	},
+	{
+		"RNC_eNodeB" : 13424,
+		"L3" : "Islington",
+		"Latitude" : 51.54274975864399,
+		"Longitude" : -0.10232192548553798
+	},
+	{
+		"RNC_eNodeB" : 1030,
+		"L3" : "Barking and Dagenham",
+		"Latitude" : 51.58105794740584,
+		"Longitude" : 0.13528481356783784
+	},
+	{
+		"RNC_eNodeB" : 50044,
+		"L3" : "Merton",
+		"Latitude" : 51.39201962373471,
+		"Longitude" : -0.22204666239091536
+	},
+	{
+		"RNC_eNodeB" : 13311,
+		"L3" : "Camden",
+		"Latitude" : 51.540189075064234,
+		"Longitude" : -0.1758627686369304
+	},
+	{
+		"RNC_eNodeB" : 50122,
+		"L3" : "Medway",
+		"Latitude" : 51.38588897530154,
+		"Longitude" : 0.549816567346953
+	},
+	{
+		"RNC_eNodeB" : 50912,
+		"L3" : "Berkshire",
+		"Latitude" : 51.5242275638837,
+		"Longitude" : -0.6011603263876276
+	},
+	{
+		"RNC_eNodeB" : 3724,
+		"L3" : "Manchester",
+		"Latitude" : 53.478915297964626,
+		"Longitude" : -2.1510853141699604
+	},
+	{
+		"RNC_eNodeB" : 49501,
+		"L3" : "Manchester",
+		"Latitude" : 53.48328219556854,
+		"Longitude" : -2.1737772042905497
+	},
+	{
+		"RNC_eNodeB" : 923,
+		"L3" : "Glasgow",
+		"Latitude" : 55.837358648115455,
+		"Longitude" : -4.170543372166096
+	},
+	{
+		"RNC_eNodeB" : 50286,
+		"L3" : "West Midlands",
+		"Latitude" : 52.47215634624136,
+		"Longitude" : -1.9971317596860194
+	},
+	{
+		"RNC_eNodeB" : 49596,
+		"L3" : "West Midlands",
+		"Latitude" : 52.47789355511053,
+		"Longitude" : -2.0845289451702422
+	},
+	{
+		"RNC_eNodeB" : 51162,
+		"L3" : "West Midlands",
+		"Latitude" : 52.569163825636466,
+		"Longitude" : -2.0472156219400603
+	},
+	{
+		"RNC_eNodeB" : 50612,
+		"L3" : "Leicestershire",
+		"Latitude" : 52.692753096919354,
+		"Longitude" : -1.0925364668640025
+	},
+	{
+		"RNC_eNodeB" : 50612,
+		"L3" : "Leicestershire",
+		"Latitude" : 52.693190811350505,
+		"Longitude" : -1.0927737130567008
+	},
+	{
+		"RNC_eNodeB" : 49722,
+		"L3" : "Portsmouth",
+		"Latitude" : 50.84586674436319,
+		"Longitude" : -1.085713682471151
+	},
+	{
+		"RNC_eNodeB" : 50424,
+		"L3" : "Cardiff",
+		"Latitude" : 51.51090173582232,
+		"Longitude" : -3.119276002650716
+	},
+	{
+		"RNC_eNodeB" : 50906,
+		"L3" : "Manchester",
+		"Latitude" : 53.457175190333835,
+		"Longitude" : -2.242721854391668
+	},
+	{
+		"RNC_eNodeB" : 50062,
+		"L3" : "Manchester",
+		"Latitude" : 53.46979181503382,
+		"Longitude" : -2.1119086564310146
+	},
+	{
+		"RNC_eNodeB" : 49721,
+		"L3" : "Manchester",
+		"Latitude" : 53.544206851504626,
+		"Longitude" : -2.1289074682874944
+	},
+	{
+		"RNC_eNodeB" : 50967,
+		"L3" : "Warrington",
+		"Latitude" : 52.91295855006156,
+		"Longitude" : -1.9361018967476797
+	},
+	{
+		"RNC_eNodeB" : 11614,
+		"L3" : "Lancashire",
+		"Latitude" : 53.923224934586536,
+		"Longitude" : -3.0119803712980167
+	},
+	{
+		"RNC_eNodeB" : 50969,
+		"L3" : "North Lincolnshire",
+		"Latitude" : 53.647510854821455,
+		"Longitude" : -0.42301867627783823
+	},
+	{
+		"RNC_eNodeB" : 50466,
+		"L3" : "Lancashire",
+		"Latitude" : 53.74724027221176,
+		"Longitude" : -2.673831793161863
+	},
+	{
+		"RNC_eNodeB" : 1804,
+		"L3" : "Stockton-on-Tees",
+		"Latitude" : 54.58003548470038,
+		"Longitude" : -1.3121509148067587
+	},
+	{
+		"RNC_eNodeB" : 50413,
+		"L3" : "Manchester",
+		"Latitude" : 53.4418758188953,
+		"Longitude" : -2.2138957694142305
+	},
+	{
+		"RNC_eNodeB" : 4368,
+		"L3" : "West Midlands",
+		"Latitude" : 52.41712642526855,
+		"Longitude" : -1.9700222600956745
+	},
+	{
+		"RNC_eNodeB" : 2083,
+		"L3" : "Middlesbrough",
+		"Latitude" : 54.568000874695095,
+		"Longitude" : -1.2383151642936365
+	},
+	{
+		"RNC_eNodeB" : 6036,
+		"L3" : "Ealing",
+		"Latitude" : 51.52612079427755,
+		"Longitude" : -0.3909602268695685
+	},
+	{
+		"RNC_eNodeB" : 536,
+		"L3" : "Hillingdon",
+		"Latitude" : 51.52882745811018,
+		"Longitude" : -0.3914256850750299
+	},
+	{
+		"RNC_eNodeB" : 80042,
+		"L3" : "West Midlands",
+		"Latitude" : 52.4751267083037,
+		"Longitude" : -1.8968714507811824
+	},
+	{
+		"RNC_eNodeB" : 1496,
+		"L3" : "Manchester",
+		"Latitude" : 53.56479322861828,
+		"Longitude" : -2.4425772132778727
+	},
+	{
+		"RNC_eNodeB" : 49649,
+		"L3" : "Hampshire",
+		"Latitude" : 51.24866079888074,
+		"Longitude" : -0.7593124827673269
+	},
+	{
+		"RNC_eNodeB" : 51688,
+		"L3" : "Manchester",
+		"Latitude" : 53.57913379249323,
+		"Longitude" : -2.414114556282914
+	},
+	{
+		"RNC_eNodeB" : 544,
+		"L3" : "Haringey",
+		"Latitude" : 51.573189811413286,
+		"Longitude" : -0.07102143516329934
+	},
+	{
+		"RNC_eNodeB" : 592,
+		"L3" : "Kensington and Chelsea",
+		"Latitude" : 51.47262577304263,
+		"Longitude" : -0.1680293030621137
+	},
+	{
+		"RNC_eNodeB" : 640,
+		"L3" : "Croydon",
+		"Latitude" : 51.396585986424355,
+		"Longitude" : -0.11442629576330673
+	},
+	{
+		"RNC_eNodeB" : 797,
+		"L3" : "Wandsworth",
+		"Latitude" : 51.42788209154513,
+		"Longitude" : -0.1521875135208212
+	},
+	{
+		"RNC_eNodeB" : 296,
+		"L3" : "West Midlands",
+		"Latitude" : 52.49044315607767,
+		"Longitude" : -1.8160419225075137
+	},
+	{
+		"RNC_eNodeB" : 14176,
+		"L3" : "West Midlands",
+		"Latitude" : 52.492364346322205,
+		"Longitude" : -1.8296343242126003
+	},
+	{
+		"RNC_eNodeB" : 50503,
+		"L3" : "Warwickshire",
+		"Latitude" : 52.502516504880546,
+		"Longitude" : -1.7090085716263668
+	},
+	{
+		"RNC_eNodeB" : 1590,
+		"L3" : "Manchester",
+		"Latitude" : 53.48151671262339,
+		"Longitude" : -2.2495612785305372
+	},
+	{
+		"RNC_eNodeB" : 2619,
+		"L3" : "Manchester",
+		"Latitude" : 53.621630655731074,
+		"Longitude" : -2.159535755880561
+	},
+	{
+		"RNC_eNodeB" : 2205,
+		"L3" : "Manchester",
+		"Latitude" : 53.58388955176417,
+		"Longitude" : -2.4071410264917827
+	},
+	{
+		"RNC_eNodeB" : 2336,
+		"L3" : "Merseyside",
+		"Latitude" : 53.419817167838076,
+		"Longitude" : -2.964435907648382
+	},
+	{
+		"RNC_eNodeB" : 4677,
+		"L3" : "South Yorkshire",
+		"Latitude" : 53.36916099964223,
+		"Longitude" : -1.5306248875381767
+	},
+	{
+		"RNC_eNodeB" : 9567,
+		"L3" : "South Yorkshire",
+		"Latitude" : 53.343739146817846,
+		"Longitude" : -1.419047524384073
+	},
+	{
+		"RNC_eNodeB" : 992,
+		"L3" : "South Yorkshire",
+		"Latitude" : 53.37668693008023,
+		"Longitude" : -1.4971943398445198
+	},
+	{
+		"RNC_eNodeB" : 666,
+		"L3" : "Manchester",
+		"Latitude" : 53.45687559952723,
+		"Longitude" : -2.21884139432763
+	},
+	{
+		"RNC_eNodeB" : 13425,
+		"L3" : "Tower Hamlets",
+		"Latitude" : 51.51207191007206,
+		"Longitude" : -0.007586982091650051
+	},
+	{
+		"RNC_eNodeB" : 13337,
+		"L3" : "Camden",
+		"Latitude" : 51.5437434814528,
+		"Longitude" : -0.1494462717868273
+	},
+	{
+		"RNC_eNodeB" : 50864,
+		"L3" : "Kent",
+		"Latitude" : 51.43572259081238,
+		"Longitude" : 0.3349611416999154
+	},
+	{
+		"RNC_eNodeB" : 3825,
+		"L3" : "Norfolk",
+		"Latitude" : 52.61936062221968,
+		"Longitude" : 1.331684530746661
+	},
+	{
+		"RNC_eNodeB" : 51109,
+		"L3" : "Tyne and Wear",
+		"Latitude" : 54.96207248719703,
+		"Longitude" : -1.6041192219444385
+	},
+	{
+		"RNC_eNodeB" : 6804,
+		"L3" : "Enfield",
+		"Latitude" : 51.5764750579927,
+		"Longitude" : -0.21709725132561897
+	},
+	{
+		"RNC_eNodeB" : 8175,
+		"L3" : "Kensington and Chelsea",
+		"Latitude" : 51.4931427717648,
+		"Longitude" : -0.1987165874344207
+	},
+	{
+		"RNC_eNodeB" : 11932,
+		"L3" : "Buckinghamshire",
+		"Latitude" : 51.54626809015003,
+		"Longitude" : -0.512045074706447
+	},
+	{
+		"RNC_eNodeB" : 5163,
+		"L3" : "Westminster",
+		"Latitude" : 51.48625938713686,
+		"Longitude" : -0.12275683605261398
+	},
+	{
+		"RNC_eNodeB" : 5163,
+		"L3" : "Westminster",
+		"Latitude" : 51.484413980167474,
+		"Longitude" : -0.12867898035970146
+	},
+	{
+		"RNC_eNodeB" : 12382,
+		"L3" : "Tower Hamlets",
+		"Latitude" : 51.519655560040924,
+		"Longitude" : -0.048902628678658695
+	},
+	{
+		"RNC_eNodeB" : 12382,
+		"L3" : "Tower Hamlets",
+		"Latitude" : 51.518019217751544,
+		"Longitude" : -0.04940445976185938
+	},
+	{
+		"RNC_eNodeB" : 748,
+		"L3" : "Wandsworth",
+		"Latitude" : 51.44683100766517,
+		"Longitude" : -0.14134026692984356
+	},
+	{
+		"RNC_eNodeB" : 7472,
+		"L3" : "Hounslow",
+		"Latitude" : 51.48386592068443,
+		"Longitude" : -0.32488949470822986
+	},
+	{
+		"RNC_eNodeB" : 6294,
+		"L3" : "Croydon",
+		"Latitude" : 51.37699893821214,
+		"Longitude" : -0.08297609852458318
+	},
+	{
+		"RNC_eNodeB" : 9033,
+		"L3" : "Havering",
+		"Latitude" : 51.58467417263655,
+		"Longitude" : 0.16986809325801713
+	},
+	{
+		"RNC_eNodeB" : 11885,
+		"L3" : "Havering",
+		"Latitude" : 51.58344171852238,
+		"Longitude" : 0.1747870800115091
+	},
+	{
+		"RNC_eNodeB" : 2078,
+		"L3" : "Havering",
+		"Latitude" : 51.601495288466595,
+		"Longitude" : 0.16632775168304423
+	},
+	{
+		"RNC_eNodeB" : 8241,
+		"L3" : "Hertfordshire",
+		"Latitude" : 51.68983371816291,
+		"Longitude" : -0.08847750205744888
+	},
+	{
+		"RNC_eNodeB" : 5200,
+		"L3" : "Havering",
+		"Latitude" : 51.5894919579632,
+		"Longitude" : 0.17674580628290487
+	},
+	{
+		"RNC_eNodeB" : 2462,
+		"L3" : "Thurrock",
+		"Latitude" : 51.461176416251,
+		"Longitude" : 0.22602317387733378
+	},
+	{
+		"RNC_eNodeB" : 3041,
+		"L3" : "Medway",
+		"Latitude" : 51.38814928892957,
+		"Longitude" : 0.5084179439013317
+	},
+	{
+		"RNC_eNodeB" : 2784,
+		"L3" : "Bournemouth",
+		"Latitude" : 50.72614166705675,
+		"Longitude" : -1.8628739876904201
+	},
+	{
+		"RNC_eNodeB" : 9518,
+		"L3" : "Hertfordshire",
+		"Latitude" : 51.72458124628026,
+		"Longitude" : -0.3868399432710485
+	},
+	{
+		"RNC_eNodeB" : 3040,
+		"L3" : "Milton Keynes",
+		"Latitude" : 52.042090646202375,
+		"Longitude" : -0.6538287294942405
+	},
+	{
+		"RNC_eNodeB" : 561,
+		"L3" : "Hackney",
+		"Latitude" : 51.542389575473194,
+		"Longitude" : -0.03314289531714809
+	},
+	{
+		"RNC_eNodeB" : 561,
+		"L3" : "Tower Hamlets",
+		"Latitude" : 51.534635140662154,
+		"Longitude" : -0.026361279797085902
+	},
+	{
+		"RNC_eNodeB" : 2889,
+		"L3" : "Essex",
+		"Latitude" : 51.59317550198311,
+		"Longitude" : 0.5741233393587819
+	},
+	{
+		"RNC_eNodeB" : 5710,
+		"L3" : "Barking and Dagenham",
+		"Latitude" : 51.558551987018774,
+		"Longitude" : 0.18801366242708908
+	},
+	{
+		"RNC_eNodeB" : 364,
+		"L3" : "Westminster",
+		"Latitude" : 51.49597661177547,
+		"Longitude" : -0.11527254419072977
+	},
+	{
+		"RNC_eNodeB" : 6954,
+		"L3" : "Essex",
+		"Latitude" : 51.93381068445344,
+		"Longitude" : 1.2578001895065338
+	},
+	{
+		"RNC_eNodeB" : 11402,
+		"L3" : "Berkshire",
+		"Latitude" : 51.41129748786943,
+		"Longitude" : -0.6718390307899134
+	},
+	{
+		"RNC_eNodeB" : 10211,
+		"L3" : "Kent",
+		"Latitude" : 51.34756431542154,
+		"Longitude" : 0.1354417688099888
+	},
+	{
+		"RNC_eNodeB" : 12502,
+		"L3" : "Kent",
+		"Latitude" : 51.31976899787897,
+		"Longitude" : 0.9705723502036401
+	},
+	{
+		"RNC_eNodeB" : 8061,
+		"L3" : "Essex",
+		"Latitude" : 51.55592924026456,
+		"Longitude" : 0.4858680083605782
+	},
+	{
+		"RNC_eNodeB" : 13174,
+		"L3" : "Westminster",
+		"Latitude" : 51.50508987183358,
+		"Longitude" : -0.15025444822264955
+	},
+	{
+		"RNC_eNodeB" : 2340,
+		"L3" : "Milton Keynes",
+		"Latitude" : 52.038883033548075,
+		"Longitude" : -0.7569285165339755
+	},
+	{
+		"RNC_eNodeB" : 11543,
+		"L3" : "Kent",
+		"Latitude" : 51.019312217142236,
+		"Longitude" : 0.9032980467713176
+	},
+	{
+		"RNC_eNodeB" : 12187,
+		"L3" : "Kent",
+		"Latitude" : 50.95777321680421,
+		"Longitude" : 0.9235133669407071
+	},
+	{
+		"RNC_eNodeB" : 50523,
+		"L3" : "Surrey",
+		"Latitude" : 51.2779844255133,
+		"Longitude" : -0.26143790187368854
+	},
+	{
+		"RNC_eNodeB" : 276,
+		"L3" : "West Midlands",
+		"Latitude" : 52.486755261258814,
+		"Longitude" : -1.9328193572960155
+	},
+	{
+		"RNC_eNodeB" : 8253,
+		"L3" : "West Midlands",
+		"Latitude" : 52.48199222576363,
+		"Longitude" : -1.998145831032266
+	},
+	{
+		"RNC_eNodeB" : 2540,
+		"L3" : "West Midlands",
+		"Latitude" : 52.57664887945476,
+		"Longitude" : -2.013252869291917
+	},
+	{
+		"RNC_eNodeB" : 7611,
+		"L3" : "West Midlands",
+		"Latitude" : 52.55302480443796,
+		"Longitude" : -1.9322038537694057
+	},
+	{
+		"RNC_eNodeB" : 2466,
+		"L3" : "Staffordshire",
+		"Latitude" : 52.603291494999375,
+		"Longitude" : -1.6352852392900747
+	},
+	{
+		"RNC_eNodeB" : 11109,
+		"L3" : "Staffordshire",
+		"Latitude" : 52.60316456856253,
+		"Longitude" : -1.6434791141063523
+	},
+	{
+		"RNC_eNodeB" : 3745,
+		"L3" : "Nottinghamshire",
+		"Latitude" : 53.11457076976463,
+		"Longitude" : -1.2768353565220818
+	},
+	{
+		"RNC_eNodeB" : 11096,
+		"L3" : "Gloucestershire",
+		"Latitude" : 51.85418779805971,
+		"Longitude" : -2.2216507922219098
+	},
+	{
+		"RNC_eNodeB" : 6486,
+		"L3" : "South Gloucestershire",
+		"Latitude" : 51.51590231051295,
+		"Longitude" : -2.5474534973679748
+	},
+	{
+		"RNC_eNodeB" : 4983,
+		"L3" : "Bristol",
+		"Latitude" : 51.41773956298828,
+		"Longitude" : -2.589145153905009
+	},
+	{
+		"RNC_eNodeB" : 10730,
+		"L3" : "South Gloucestershire",
+		"Latitude" : 51.54766438128052,
+		"Longitude" : -2.573790833351907
+	},
+	{
+		"RNC_eNodeB" : 4376,
+		"L3" : "Cardiff",
+		"Latitude" : 51.4850688844548,
+		"Longitude" : -3.1746051790684207
+	},
+	{
+		"RNC_eNodeB" : 2406,
+		"L3" : "Neath Port Talbot",
+		"Latitude" : 51.59748521741036,
+		"Longitude" : -3.784507958236225
+	},
+	{
+		"RNC_eNodeB" : 3932,
+		"L3" : "Swansea",
+		"Latitude" : 51.62039881552534,
+		"Longitude" : -3.9421493005964106
+	},
+	{
+		"RNC_eNodeB" : 4080,
+		"L3" : "Swansea",
+		"Latitude" : 51.617460355913806,
+		"Longitude" : -3.9569482272728385
+	},
+	{
+		"RNC_eNodeB" : 3972,
+		"L3" : "Herefordshire",
+		"Latitude" : 52.05839677312186,
+		"Longitude" : -2.7211990454227966
+	},
+	{
+		"RNC_eNodeB" : 3233,
+		"L3" : "Staffordshire",
+		"Latitude" : 52.61737097791268,
+		"Longitude" : -1.8337359622603109
+	},
+	{
+		"RNC_eNodeB" : 4195,
+		"L3" : "West Midlands",
+		"Latitude" : 52.61758515805228,
+		"Longitude" : -2.122585809082902
+	},
+	{
+		"RNC_eNodeB" : 6410,
+		"L3" : "Staffordshire",
+		"Latitude" : 52.67289392468398,
+		"Longitude" : -2.0224256253218202
+	},
+	{
+		"RNC_eNodeB" : 1287,
+		"L3" : "Southampton",
+		"Latitude" : 50.93440091929235,
+		"Longitude" : -1.4323977627215132
+	},
+	{
+		"RNC_eNodeB" : 7632,
+		"L3" : "Warwickshire",
+		"Latitude" : 52.51586377863981,
+		"Longitude" : -1.7063543239823815
+	},
+	{
+		"RNC_eNodeB" : 10234,
+		"L3" : "Ceredigion",
+		"Latitude" : 52.419048616255836,
+		"Longitude" : -4.046448354063363
+	},
+	{
+		"RNC_eNodeB" : 3697,
+		"L3" : "Warwickshire",
+		"Latitude" : 52.37635556014823,
+		"Longitude" : -1.1649828777066453
+	},
+	{
+		"RNC_eNodeB" : 2234,
+		"L3" : "Swansea",
+		"Latitude" : 51.656389413184066,
+		"Longitude" : -4.0415056940693335
+	},
+	{
+		"RNC_eNodeB" : 1177,
+		"L3" : "Southampton",
+		"Latitude" : 50.89372745943956,
+		"Longitude" : -1.3542443537156592
+	},
+	{
+		"RNC_eNodeB" : 8985,
+		"L3" : "Leicestershire",
+		"Latitude" : 52.514391425397875,
+		"Longitude" : -1.1804977954639553
+	},
+	{
+		"RNC_eNodeB" : 9562,
+		"L3" : "Blaenau Gwent",
+		"Latitude" : 51.799912422833216,
+		"Longitude" : -3.172646848045461
+	},
+	{
+		"RNC_eNodeB" : 5868,
+		"L3" : "Gloucestershire",
+		"Latitude" : 51.83034969109304,
+		"Longitude" : -2.3757333781886363
+	},
+	{
+		"RNC_eNodeB" : 6993,
+		"L3" : "West Midlands",
+		"Latitude" : 52.59723408571857,
+		"Longitude" : -2.0155667392448984
+	},
+	{
+		"RNC_eNodeB" : 8227,
+		"L3" : "West Midlands",
+		"Latitude" : 52.50010166747408,
+		"Longitude" : -2.040911669656244
+	},
+	{
+		"RNC_eNodeB" : 2785,
+		"L3" : "Bristol",
+		"Latitude" : 51.4532472431073,
+		"Longitude" : -2.5971131067596733
+	},
+	{
+		"RNC_eNodeB" : 12515,
+		"L3" : "Shropshire",
+		"Latitude" : 52.71099690456016,
+		"Longitude" : -2.7297211557743597
+	},
+	{
+		"RNC_eNodeB" : 12515,
+		"L3" : "Shropshire",
+		"Latitude" : 52.700797825463326,
+		"Longitude" : -2.728980490571838
+	},
+	{
+		"RNC_eNodeB" : 12515,
+		"L3" : "Shropshire",
+		"Latitude" : 52.70400016962691,
+		"Longitude" : -2.739041725782354
+	},
+	{
+		"RNC_eNodeB" : 6643,
+		"L3" : "Manchester",
+		"Latitude" : 53.47494714092942,
+		"Longitude" : -2.2200465410082173
+	},
+	{
+		"RNC_eNodeB" : 51716,
+		"L3" : "Manchester",
+		"Latitude" : 53.47701259417746,
+		"Longitude" : -2.260411043604362
+	},
+	{
+		"RNC_eNodeB" : 3442,
+		"L3" : "Manchester",
+		"Latitude" : 53.399666035973596,
+		"Longitude" : -2.2692811808996853
+	},
+	{
+		"RNC_eNodeB" : 51793,
+		"L3" : "Darlington",
+		"Latitude" : 54.544170320057304,
+		"Longitude" : -1.4691833690571068
+	},
+	{
+		"RNC_eNodeB" : 1090,
+		"L3" : "Manchester",
+		"Latitude" : 53.54460944629529,
+		"Longitude" : -2.394766787681388
+	},
+	{
+		"RNC_eNodeB" : 9980,
+		"L3" : "Manchester",
+		"Latitude" : 53.582891811410214,
+		"Longitude" : -2.425564078890407
+	},
+	{
+		"RNC_eNodeB" : 932,
+		"L3" : "Merseyside",
+		"Latitude" : 53.45550237769262,
+		"Longitude" : -2.917950467251866
+	},
+	{
+		"RNC_eNodeB" : 981,
+		"L3" : "South Yorkshire",
+		"Latitude" : 53.384917207776,
+		"Longitude" : -1.4610870702659873
+	},
+	{
+		"RNC_eNodeB" : 4235,
+		"L3" : "South Yorkshire",
+		"Latitude" : 53.383931812582354,
+		"Longitude" : -1.4442371707699986
+	},
+	{
+		"RNC_eNodeB" : 1971,
+		"L3" : "South Yorkshire",
+		"Latitude" : 53.38306131389793,
+		"Longitude" : -1.459910027437795
+	},
+	{
+		"RNC_eNodeB" : 2200,
+		"L3" : "South Yorkshire",
+		"Latitude" : 53.577036162466214,
+		"Longitude" : -1.4660670752426692
+	},
+	{
+		"RNC_eNodeB" : 3959,
+		"L3" : "Kingston upon Hull",
+		"Latitude" : 53.74769848323166,
+		"Longitude" : -0.42813421307587457
+	},
+	{
+		"RNC_eNodeB" : 2146,
+		"L3" : "Redcar and Cleveland",
+		"Latitude" : 54.591219204220856,
+		"Longitude" : -1.0269940620339848
+	},
+	{
+		"RNC_eNodeB" : 2386,
+		"L3" : "Glasgow",
+		"Latitude" : 55.85561422768537,
+		"Longitude" : -4.202220212235072
+	},
+	{
+		"RNC_eNodeB" : 6093,
+		"L3" : "Glasgow",
+		"Latitude" : 55.8520257229034,
+		"Longitude" : -4.249048064726119
+	},
+	{
+		"RNC_eNodeB" : 895,
+		"L3" : "Glasgow",
+		"Latitude" : 55.88376002531923,
+		"Longitude" : -4.34598482952828
+	},
+	{
+		"RNC_eNodeB" : 4083,
+		"L3" : "Warrington",
+		"Latitude" : 53.416493420008536,
+		"Longitude" : -2.636283951561109
+	},
+	{
+		"RNC_eNodeB" : 9665,
+		"L3" : "North Lanarkshire",
+		"Latitude" : 55.971343790926504,
+		"Longitude" : -4.056138515983857
+	},
+	{
+		"RNC_eNodeB" : 839,
+		"L3" : "Manchester",
+		"Latitude" : 53.58495268468122,
+		"Longitude" : -2.4569605530123644
+	},
+	{
+		"RNC_eNodeB" : 12123,
+		"L3" : "East Ayrshire",
+		"Latitude" : 55.45471546866677,
+		"Longitude" : -4.257212419401515
+	},
+	{
+		"RNC_eNodeB" : 2156,
+		"L3" : "Stockton-on-Tees",
+		"Latitude" : 54.579409880531884,
+		"Longitude" : -1.3286399764361576
+	},
+	{
+		"RNC_eNodeB" : 4397,
+		"L3" : "West Yorkshire",
+		"Latitude" : 53.70868463040005,
+		"Longitude" : -1.3932160714303676
+	},
+	{
+		"RNC_eNodeB" : 10267,
+		"L3" : "West Yorkshire",
+		"Latitude" : 53.76800997059625,
+		"Longitude" : -1.518226583613368
+	},
+	{
+		"RNC_eNodeB" : 5739,
+		"L3" : "Cheshire",
+		"Latitude" : 53.184072499562284,
+		"Longitude" : -2.857775382226455
+	},
+	{
+		"RNC_eNodeB" : 9851,
+		"L3" : "Halton",
+		"Latitude" : 53.40547022180879,
+		"Longitude" : -3.0628335624516088
+	},
+	{
+		"RNC_eNodeB" : 1768,
+		"L3" : "West Yorkshire",
+		"Latitude" : 53.7855250444634,
+		"Longitude" : -1.5361298180679943
+	},
+	{
+		"RNC_eNodeB" : 51094,
+		"L3" : "Oxfordshire",
+		"Latitude" : 51.45818625032338,
+		"Longitude" : -0.976364646887691
+	},
+	{
+		"RNC_eNodeB" : 13492,
+		"L3" : "Southwark",
+		"Latitude" : 51.498463443446695,
+		"Longitude" : -0.0856931242742267
+	},
+	{
+		"RNC_eNodeB" : 51437,
+		"L3" : "Bexley",
+		"Latitude" : 51.42499805469109,
+		"Longitude" : 0.1050805805832238
+	},
+	{
+		"RNC_eNodeB" : 8012,
+		"L3" : "Kent",
+		"Latitude" : 51.41799160194085,
+		"Longitude" : 0.5046487233923024
+	},
+	{
+		"RNC_eNodeB" : 51879,
+		"L3" : "Enfield",
+		"Latitude" : 51.58489094697816,
+		"Longitude" : -0.2182961582915107
+	},
+	{
+		"RNC_eNodeB" : 51093,
+		"L3" : "Milton Keynes",
+		"Latitude" : 52.01097959183392,
+		"Longitude" : -0.7364441157179312
+	},
+	{
+		"RNC_eNodeB" : 50104,
+		"L3" : "Suffolk",
+		"Latitude" : 52.05638148744514,
+		"Longitude" : 1.1670520339421828
+	},
+	{
+		"RNC_eNodeB" : 51241,
+		"L3" : "West Midlands",
+		"Latitude" : 52.58263069268194,
+		"Longitude" : -1.9839767594953095
+	},
+	{
+		"RNC_eNodeB" : 49553,
+		"L3" : "Gloucestershire",
+		"Latitude" : 51.87015028560863,
+		"Longitude" : -2.249281282422035
+	},
+	{
+		"RNC_eNodeB" : 49612,
+		"L3" : "Northamptonshire",
+		"Latitude" : 52.21860039676551,
+		"Longitude" : -0.8819345090720749
+	},
+	{
+		"RNC_eNodeB" : 1759,
+		"L3" : "Swansea",
+		"Latitude" : 51.61926326881401,
+		"Longitude" : -3.9462180542426544
+	},
+	{
+		"RNC_eNodeB" : 51332,
+		"L3" : "Worcestershire",
+		"Latitude" : 52.086862725404956,
+		"Longitude" : -1.9406754877634507
+	},
+	{
+		"RNC_eNodeB" : 50720,
+		"L3" : "Caerphilly",
+		"Latitude" : 51.63533702743388,
+		"Longitude" : -3.2340060607573697
+	},
+	{
+		"RNC_eNodeB" : 50813,
+		"L3" : "South Gloucestershire",
+		"Latitude" : 51.533073759790675,
+		"Longitude" : -2.56112941402701
+	},
+	{
+		"RNC_eNodeB" : 50654,
+		"L3" : "South Gloucestershire",
+		"Latitude" : 51.52498999120556,
+		"Longitude" : -2.5765279978258375
+	},
+	{
+		"RNC_eNodeB" : 49566,
+		"L3" : "Southampton",
+		"Latitude" : 50.91261526321505,
+		"Longitude" : -1.3926566335173347
+	},
+	{
+		"RNC_eNodeB" : 51116,
+		"L3" : "Manchester",
+		"Latitude" : 53.51148006355299,
+		"Longitude" : -2.2406774565653147
+	},
+	{
+		"RNC_eNodeB" : 50583,
+		"L3" : "West Yorkshire",
+		"Latitude" : 53.72215848240531,
+		"Longitude" : -1.8940996609666763
+	},
+	{
+		"RNC_eNodeB" : 50481,
+		"L3" : "West Yorkshire",
+		"Latitude" : 53.80438215650987,
+		"Longitude" : -1.8074330057481396
+	},
+	{
+		"RNC_eNodeB" : 50514,
+		"L3" : "Stockton-on-Tees",
+		"Latitude" : 54.59017372347846,
+		"Longitude" : -1.3450156382615936
+	},
+	{
+		"RNC_eNodeB" : 50907,
+		"L3" : "Redcar and Cleveland",
+		"Latitude" : 54.563538510101985,
+		"Longitude" : -1.2006381198824976
+	},
+	{
+		"RNC_eNodeB" : 51049,
+		"L3" : "Fife",
+		"Latitude" : 56.064862525599274,
+		"Longitude" : -3.441336182542803
+	},
+	{
+		"RNC_eNodeB" : 12123,
+		"L3" : "East Ayrshire",
+		"Latitude" : 55.45812183802444,
+		"Longitude" : -4.250444278959354
+	},
+	{
+		"RNC_eNodeB" : 50331,
+		"L3" : "Glasgow",
+		"Latitude" : 55.882924335110445,
+		"Longitude" : -4.224351357640316
+	},
+	{
+		"RNC_eNodeB" : 360,
+		"L3" : "Hackney",
+		"Latitude" : 51.530251597746826,
+		"Longitude" : -0.06445141880478344
+	},
+	{
+		"RNC_eNodeB" : 1952,
+		"L3" : "Hackney",
+		"Latitude" : 51.55000295628882,
+		"Longitude" : -0.03605205703207368
+	},
+	{
+		"RNC_eNodeB" : 859,
+		"L3" : "Cardiff",
+		"Latitude" : 51.48363747107577,
+		"Longitude" : -3.1698244560618165
+	},
+	{
+		"RNC_eNodeB" : 9658,
+		"L3" : "Hammersmith and Fulham",
+		"Latitude" : 51.49182361487504,
+		"Longitude" : -0.228114867010205
+	},
+	{
+		"RNC_eNodeB" : 8168,
+		"L3" : "Oxfordshire",
+		"Latitude" : 51.46237084379586,
+		"Longitude" : -0.9867435535973507
+	},
+	{
+		"RNC_eNodeB" : 13216,
+		"L3" : "Oxfordshire",
+		"Latitude" : 51.75195043588367,
+		"Longitude" : -1.2568051804946399
+	},
+	{
+		"RNC_eNodeB" : 1751,
+		"L3" : "Luton",
+		"Latitude" : 51.899033483792685,
+		"Longitude" : -0.4020209222192867
+	},
+	{
+		"RNC_eNodeB" : 4405,
+		"L3" : "Staffordshire",
+		"Latitude" : 52.82511888380965,
+		"Longitude" : -1.6240852137709458
+	},
+	{
+		"RNC_eNodeB" : 50609,
+		"L3" : "West Midlands",
+		"Latitude" : 52.416463087605614,
+		"Longitude" : -1.4975671287632784
+	},
+	{
+		"RNC_eNodeB" : 1208,
+		"L3" : "Plymouth",
+		"Latitude" : 50.410388147512386,
+		"Longitude" : -4.157718784812115
+	},
+	{
+		"RNC_eNodeB" : 9353,
+		"L3" : "Swindon",
+		"Latitude" : 51.588712273916386,
+		"Longitude" : -1.7746065727612563
+	},
+	{
+		"RNC_eNodeB" : 9353,
+		"L3" : "Wiltshire",
+		"Latitude" : 51.59067758626838,
+		"Longitude" : -1.7947269478094825
+	},
+	{
+		"RNC_eNodeB" : 12056,
+		"L3" : "Swindon",
+		"Latitude" : 51.56844911489191,
+		"Longitude" : -1.7752451710593913
+	},
+	{
+		"RNC_eNodeB" : 870,
+		"L3" : "Manchester",
+		"Latitude" : 53.52193498442524,
+		"Longitude" : -2.234885380183095
+	},
+	{
+		"RNC_eNodeB" : 13099,
+		"L3" : "Manchester",
+		"Latitude" : 53.490286451275914,
+		"Longitude" : -2.0934511109600313
+	},
+	{
+		"RNC_eNodeB" : 1281,
+		"L3" : "West Yorkshire",
+		"Latitude" : 53.799707495901266,
+		"Longitude" : -1.5391910383174658
+	},
+	{
+		"RNC_eNodeB" : 9904,
+		"L3" : "Edinburgh",
+		"Latitude" : 55.947841560892726,
+		"Longitude" : -3.1364485020193733
+	},
+	{
+		"RNC_eNodeB" : 4475,
+		"L3" : "Tyne and Wear",
+		"Latitude" : 55.03568120193655,
+		"Longitude" : -1.5846476514872039
+	},
+	{
+		"RNC_eNodeB" : 3981,
+		"L3" : "Tyne and Wear",
+		"Latitude" : 54.982556111598534,
+		"Longitude" : -1.635749294255909
+	},
+	{
+		"RNC_eNodeB" : 50609,
+		"L3" : "West Midlands",
+		"Latitude" : 52.41853708511619,
+		"Longitude" : -1.4953430775167105
+	},
+	{
+		"RNC_eNodeB" : 50624,
+		"L3" : "Northamptonshire",
+		"Latitude" : 52.33892395917107,
+		"Longitude" : -0.6528754107654094
+	},
+	{
+		"RNC_eNodeB" : 51477,
+		"L3" : "West Yorkshire",
+		"Latitude" : 53.78720042190338,
+		"Longitude" : -1.4029914025841081
+	},
+	{
+		"RNC_eNodeB" : 12908,
+		"L3" : "Camden",
+		"Latitude" : 51.530595505301164,
+		"Longitude" : -0.13423895743375025
+	},
+	{
+		"RNC_eNodeB" : 642,
+		"L3" : "Tower Hamlets",
+		"Latitude" : 51.499192122687305,
+		"Longitude" : 0.00569554297889984
+	},
+	{
+		"RNC_eNodeB" : 494,
+		"L3" : "Enfield",
+		"Latitude" : 51.60601151084623,
+		"Longitude" : -0.0571716981249415
+	},
+	{
+		"RNC_eNodeB" : 13001,
+		"L3" : "Tower Hamlets",
+		"Latitude" : 51.488459944653165,
+		"Longitude" : 0.012380857671562709
+	},
+	{
+		"RNC_eNodeB" : 289,
+		"L3" : "West Midlands",
+		"Latitude" : 52.49108718900331,
+		"Longitude" : -1.8638754159973596
+	},
+	{
+		"RNC_eNodeB" : 883,
+		"L3" : "Nottingham",
+		"Latitude" : 52.969937450139184,
+		"Longitude" : -1.2174828128929267
+	},
+	{
+		"RNC_eNodeB" : 883,
+		"L3" : "Nottingham",
+		"Latitude" : 52.969991135992395,
+		"Longitude" : -1.2165016239848585
+	},
+	{
+		"RNC_eNodeB" : 1860,
+		"L3" : "Bath and North East Somerset",
+		"Latitude" : 51.38600421738445,
+		"Longitude" : -2.3550509472921872
+	},
+	{
+		"RNC_eNodeB" : 50416,
+		"L3" : "North Somerset",
+		"Latitude" : 51.48983605273135,
+		"Longitude" : -2.765948897546476
+	},
+	{
+		"RNC_eNodeB" : 8307,
+		"L3" : "Herefordshire",
+		"Latitude" : 52.07398517892542,
+		"Longitude" : -2.744136246582501
+	},
+	{
+		"RNC_eNodeB" : 2404,
+		"L3" : "North East Lincolnshire",
+		"Latitude" : 53.56614504787384,
+		"Longitude" : -0.09561947272272123
+	},
+	{
+		"RNC_eNodeB" : 8234,
+		"L3" : "Nottingham",
+		"Latitude" : 52.908259266548626,
+		"Longitude" : -1.17090432262541
+	},
+	{
+		"RNC_eNodeB" : 2422,
+		"L3" : "Staffordshire",
+		"Latitude" : 52.633004480211184,
+		"Longitude" : -1.7028514221908027
+	},
+	{
+		"RNC_eNodeB" : 9660,
+		"L3" : "Herefordshire",
+		"Latitude" : 52.09082416809978,
+		"Longitude" : -2.738173292398991
+	},
+	{
+		"RNC_eNodeB" : 2027,
+		"L3" : "Cardiff",
+		"Latitude" : 51.504850509383424,
+		"Longitude" : -3.1970654497423756
+	},
+	{
+		"RNC_eNodeB" : 1150,
+		"L3" : "Manchester",
+		"Latitude" : 53.58736155244211,
+		"Longitude" : -2.3262669933804623
+	},
+	{
+		"RNC_eNodeB" : 2118,
+		"L3" : "Manchester",
+		"Latitude" : 53.59443592703842,
+		"Longitude" : -2.285806357395888
+	},
+	{
+		"RNC_eNodeB" : 1694,
+		"L3" : "Manchester",
+		"Latitude" : 53.591944982945776,
+		"Longitude" : -2.275971147417876
+	},
+	{
+		"RNC_eNodeB" : 2118,
+		"L3" : "Manchester",
+		"Latitude" : 53.59115985691824,
+		"Longitude" : -2.2792391988306195
+	},
+	{
+		"RNC_eNodeB" : 1203,
+		"L3" : "Halton",
+		"Latitude" : 53.31124749727879,
+		"Longitude" : -2.9661735096122506
+	},
+	{
+		"RNC_eNodeB" : 4099,
+		"L3" : "Blackburn with Darwen",
+		"Latitude" : 53.74468159519374,
+		"Longitude" : -2.497251264944663
+	},
+	{
+		"RNC_eNodeB" : 4430,
+		"L3" : "Hartlepool",
+		"Latitude" : 54.61067575535861,
+		"Longitude" : -1.2851822405115456
+	},
+	{
+		"RNC_eNodeB" : 2503,
+		"L3" : "Darlington",
+		"Latitude" : 54.515409782346794,
+		"Longitude" : -1.5402286002228767
+	},
+	{
+		"RNC_eNodeB" : 50488,
+		"L3" : "Hertfordshire",
+		"Latitude" : 51.74461431354473,
+		"Longitude" : -0.31175384977506415
+	},
+	{
+		"RNC_eNodeB" : 611,
+		"L3" : "Brent",
+		"Latitude" : 51.52474438736899,
+		"Longitude" : -0.19785725573520643
+	},
+	{
+		"RNC_eNodeB" : 51881,
+		"L3" : "Barking and Dagenham",
+		"Latitude" : 51.53401166619617,
+		"Longitude" : 0.08867593947138007
+	},
+	{
+		"RNC_eNodeB" : 50104,
+		"L3" : "Suffolk",
+		"Latitude" : 52.05608112793817,
+		"Longitude" : 1.158658993898621
+	},
+	{
+		"RNC_eNodeB" : 13332,
+		"L3" : "Lambeth",
+		"Latitude" : 51.4526291432153,
+		"Longitude" : -0.12982686198038826
+	},
+	{
+		"RNC_eNodeB" : 50166,
+		"L3" : "Nottinghamshire",
+		"Latitude" : 53.1155509132281,
+		"Longitude" : -1.3244827991333517
+	},
+	{
+		"RNC_eNodeB" : 51129,
+		"L3" : "West Midlands",
+		"Latitude" : 52.587002334278345,
+		"Longitude" : -1.9908941668348001
+	},
+	{
+		"RNC_eNodeB" : 51031,
+		"L3" : "Northamptonshire",
+		"Latitude" : 52.274393491655864,
+		"Longitude" : -0.8959802832558891
+	},
+	{
+		"RNC_eNodeB" : 50137,
+		"L3" : "Manchester",
+		"Latitude" : 53.461654404751066,
+		"Longitude" : -2.249998276911607
+	},
+	{
+		"RNC_eNodeB" : 51379,
+		"L3" : "York",
+		"Latitude" : 53.98691118661297,
+		"Longitude" : -1.0509134380350569
+	},
+	{
+		"RNC_eNodeB" : 12280,
+		"L3" : "Merseyside",
+		"Latitude" : 53.420357098343366,
+		"Longitude" : -2.9501199059483993
+	},
+	{
+		"RNC_eNodeB" : 3905,
+		"L3" : "Kingston upon Hull",
+		"Latitude" : 53.774716409404625,
+		"Longitude" : -0.3199783108323085
+	},
+	{
+		"RNC_eNodeB" : 2134,
+		"L3" : "Kingston upon Hull",
+		"Latitude" : 53.75104353091076,
+		"Longitude" : -0.39255996183966635
+	},
+	{
+		"RNC_eNodeB" : 50637,
+		"L3" : "Kingston upon Hull",
+		"Latitude" : 53.76890656525638,
+		"Longitude" : -0.36141568709641153
+	},
+	{
+		"RNC_eNodeB" : 50637,
+		"L3" : "Kingston upon Hull",
+		"Latitude" : 53.767572372310234,
+		"Longitude" : -0.37682193366061634
+	},
+	{
+		"RNC_eNodeB" : 548,
+		"L3" : "Hounslow",
+		"Latitude" : 51.463224814025054,
+		"Longitude" : -0.39043780220142565
+	},
+	{
+		"RNC_eNodeB" : 2528,
+		"L3" : "Richmond upon Thames",
+		"Latitude" : 51.42564396988442,
+		"Longitude" : -0.3374979129227188
+	},
+	{
+		"RNC_eNodeB" : 781,
+		"L3" : "Kingston upon Thames",
+		"Latitude" : 51.40212349860608,
+		"Longitude" : -0.26888316642916865
+	},
+	{
+		"RNC_eNodeB" : 1924,
+		"L3" : "Surrey",
+		"Latitude" : 51.43532807562118,
+		"Longitude" : -0.5365875520402971
+	},
+	{
+		"RNC_eNodeB" : 4905,
+		"L3" : "Surrey",
+		"Latitude" : 51.32409235261616,
+		"Longitude" : -0.4620757699608803
+	},
+	{
+		"RNC_eNodeB" : 2944,
+		"L3" : "Surrey",
+		"Latitude" : 51.248439351123416,
+		"Longitude" : -0.5765484722439026
+	},
+	{
+		"RNC_eNodeB" : 746,
+		"L3" : "Kingston upon Thames",
+		"Latitude" : 51.40121903589794,
+		"Longitude" : -0.2522946461968656
+	},
+	{
+		"RNC_eNodeB" : 4917,
+		"L3" : "Surrey",
+		"Latitude" : 51.27807812833629,
+		"Longitude" : -0.5144522930175012
+	},
+	{
+		"RNC_eNodeB" : 2650,
+		"L3" : "Bexley",
+		"Latitude" : 51.4566047200811,
+		"Longitude" : 0.10580359765241582
+	},
+	{
+		"RNC_eNodeB" : 299,
+		"L3" : "West Midlands",
+		"Latitude" : 52.49704114257558,
+		"Longitude" : -1.954027791339864
+	},
+	{
+		"RNC_eNodeB" : 904,
+		"L3" : "Leicester",
+		"Latitude" : 52.6347965830095,
+		"Longitude" : -1.100248663278513
+	},
+	{
+		"RNC_eNodeB" : 1519,
+		"L3" : "Swindon",
+		"Latitude" : 51.5918208577716,
+		"Longitude" : -1.7531935651129493
+	},
+	{
+		"RNC_eNodeB" : 978,
+		"L3" : "Derby",
+		"Latitude" : 52.919122616717004,
+		"Longitude" : -1.4769542200593213
+	},
+	{
+		"RNC_eNodeB" : 4221,
+		"L3" : "West Yorkshire",
+		"Latitude" : 53.73322235008838,
+		"Longitude" : -1.5534770907549462
+	},
+	{
+		"RNC_eNodeB" : 988,
+		"L3" : "West Yorkshire",
+		"Latitude" : 53.747123466966194,
+		"Longitude" : -1.5557432724147693
+	},
+	{
+		"RNC_eNodeB" : 1959,
+		"L3" : "West Yorkshire",
+		"Latitude" : 53.76021720234844,
+		"Longitude" : -1.5735045027164205
+	},
+	{
+		"RNC_eNodeB" : 1280,
+		"L3" : "West Yorkshire",
+		"Latitude" : 53.778454122171304,
+		"Longitude" : -1.567454305812929
+	},
+	{
+		"RNC_eNodeB" : 1280,
+		"L3" : "West Yorkshire",
+		"Latitude" : 53.77598435383062,
+		"Longitude" : -1.5777492503666137
+	},
+	{
+		"RNC_eNodeB" : 4351,
+		"L3" : "West Yorkshire",
+		"Latitude" : 53.76395771541639,
+		"Longitude" : -1.580802627868274
+	},
+	{
+		"RNC_eNodeB" : 4657,
+		"L3" : "West Yorkshire",
+		"Latitude" : 53.76388383498635,
+		"Longitude" : -1.5627524845089529
+	},
+	{
+		"RNC_eNodeB" : 3906,
+		"L3" : "West Yorkshire",
+		"Latitude" : 53.787116823168446,
+		"Longitude" : -1.4863091841820748
+	},
+	{
+		"RNC_eNodeB" : 6535,
+		"L3" : "West Yorkshire",
+		"Latitude" : 53.776148089740424,
+		"Longitude" : -1.5806175070522128
+	},
+	{
+		"RNC_eNodeB" : 3335,
+		"L3" : "Manchester",
+		"Latitude" : 53.5958980755683,
+		"Longitude" : -2.291438350704816
+	},
+	{
+		"RNC_eNodeB" : 49540,
+		"L3" : "Manchester",
+		"Latitude" : 53.481151831225844,
+		"Longitude" : -2.1955012172940838
+	},
+	{
+		"RNC_eNodeB" : 49707,
+		"L3" : "West Yorkshire",
+		"Latitude" : 53.763967977670525,
+		"Longitude" : -1.5761392438995254
+	},
+	{
+		"RNC_eNodeB" : 1281,
+		"L3" : "West Yorkshire",
+		"Latitude" : 53.799957397594184,
+		"Longitude" : -1.547049366235967
+	},
+	{
+		"RNC_eNodeB" : 4217,
+		"L3" : "Hammersmith and Fulham",
+		"Latitude" : 51.506161326276704,
+		"Longitude" : -0.2169136774822198
+	},
+	{
+		"RNC_eNodeB" : 9246,
+		"L3" : "Lewisham",
+		"Latitude" : 51.46521549571882,
+		"Longitude" : -0.021777384108142818
+	},
+	{
+		"RNC_eNodeB" : 13134,
+		"L3" : "Haringey",
+		"Latitude" : 51.584899450148434,
+		"Longitude" : -0.10694007804795658
+	},
+	{
+		"RNC_eNodeB" : 1843,
+		"L3" : "Medway",
+		"Latitude" : 51.385997347189516,
+		"Longitude" : 0.5558321052868693
+	},
+	{
+		"RNC_eNodeB" : 297,
+		"L3" : "West Midlands",
+		"Latitude" : 52.47255586737344,
+		"Longitude" : -1.9120664450618
+	},
+	{
+		"RNC_eNodeB" : 13582,
+		"L3" : "West Midlands",
+		"Latitude" : 52.44265131176694,
+		"Longitude" : -1.8468691257503689
+	},
+	{
+		"RNC_eNodeB" : 3253,
+		"L3" : "West Midlands",
+		"Latitude" : 52.43912587974366,
+		"Longitude" : -1.840542307596717
+	},
+	{
+		"RNC_eNodeB" : 1028,
+		"L3" : "Staffordshire",
+		"Latitude" : 52.681650051220096,
+		"Longitude" : -1.8255803559962485
+	},
+	{
+		"RNC_eNodeB" : 2145,
+		"L3" : "Newport",
+		"Latitude" : 51.544547470332674,
+		"Longitude" : -3.083414402493095
+	},
+	{
+		"RNC_eNodeB" : 8112,
+		"L3" : "Hampshire",
+		"Latitude" : 50.94975936192087,
+		"Longitude" : -1.3648648073496303
+	},
+	{
+		"RNC_eNodeB" : 10901,
+		"L3" : "Isle of Wight",
+		"Latitude" : 50.622412837281516,
+		"Longitude" : -1.2188428707268772
+	},
+	{
+		"RNC_eNodeB" : 80042,
+		"L3" : "West Midlands",
+		"Latitude" : 52.47930186751165,
+		"Longitude" : -1.8947845008061954
+	},
+	{
+		"RNC_eNodeB" : 2280,
+		"L3" : "Derbyshire",
+		"Latitude" : 52.86215711960187,
+		"Longitude" : -1.5745771346729043
+	},
+	{
+		"RNC_eNodeB" : 7536,
+		"L3" : "West Yorkshire",
+		"Latitude" : 53.79372882250316,
+		"Longitude" : -1.6203119344210921
+	},
+	{
+		"RNC_eNodeB" : 1725,
+		"L3" : "East Riding of Yorkshire",
+		"Latitude" : 53.76565959833083,
+		"Longitude" : -0.2596381671228791
+	},
+	{
+		"RNC_eNodeB" : 3852,
+		"L3" : "Edinburgh",
+		"Latitude" : 55.97295229746443,
+		"Longitude" : -3.2457176213832257
+	},
+	{
+		"RNC_eNodeB" : 49568,
+		"L3" : "Manchester",
+		"Latitude" : 53.48084866551975,
+		"Longitude" : -2.112086862201056
+	},
+	{
+		"RNC_eNodeB" : 49568,
+		"L3" : "Manchester",
+		"Latitude" : 53.47949295499463,
+		"Longitude" : -2.111859240719955
+	},
+	{
+		"RNC_eNodeB" : 49660,
+		"L3" : "West Midlands",
+		"Latitude" : 52.48294316274812,
+		"Longitude" : -2.020231568793453
+	},
+	{
+		"RNC_eNodeB" : 13399,
+		"L3" : "West Midlands",
+		"Latitude" : 52.531088614680584,
+		"Longitude" : -2.031620802454132
+	},
+	{
+		"RNC_eNodeB" : 49600,
+		"L3" : "Manchester",
+		"Latitude" : 53.53615752475114,
+		"Longitude" : -2.091866707625376
+	},
+	{
+		"RNC_eNodeB" : 3323,
+		"L3" : "Brent",
+		"Latitude" : 51.53875880342611,
+		"Longitude" : -0.19457782951910402
+	},
+	{
+		"RNC_eNodeB" : 6804,
+		"L3" : "Brent",
+		"Latitude" : 51.57070552315988,
+		"Longitude" : -0.23222088183747552
+	},
+	{
+		"RNC_eNodeB" : 12902,
+		"L3" : "Lambeth",
+		"Latitude" : 51.49356659662103,
+		"Longitude" : -0.09946334880367398
+	},
+	{
+		"RNC_eNodeB" : 544,
+		"L3" : "Hackney",
+		"Latitude" : 51.57369207228613,
+		"Longitude" : -0.0753240703863272
+	},
+	{
+		"RNC_eNodeB" : 13349,
+		"L3" : "Lambeth",
+		"Latitude" : 51.47774343736937,
+		"Longitude" : -0.11181109521536055
+	},
+	{
+		"RNC_eNodeB" : 855,
+		"L3" : "Tower Hamlets",
+		"Latitude" : 51.52948918302406,
+		"Longitude" : -0.05115069656863802
+	},
+	{
+		"RNC_eNodeB" : 856,
+		"L3" : "Tower Hamlets",
+		"Latitude" : 51.52170447339495,
+		"Longitude" : -0.06198013389148109
+	},
+	{
+		"RNC_eNodeB" : 487,
+		"L3" : "Brent",
+		"Latitude" : 51.53583366161982,
+		"Longitude" : -0.28243725372144673
+	},
+	{
+		"RNC_eNodeB" : 7472,
+		"L3" : "Ealing",
+		"Latitude" : 51.48848046842818,
+		"Longitude" : -0.3159813652517626
+	},
+	{
+		"RNC_eNodeB" : 14253,
+		"L3" : "Hillingdon",
+		"Latitude" : 51.50776328092541,
+		"Longitude" : -0.47053305409685753
+	},
+	{
+		"RNC_eNodeB" : 14253,
+		"L3" : "Hillingdon",
+		"Latitude" : 51.507681270793775,
+		"Longitude" : -0.4703574051974449
+	},
+	{
+		"RNC_eNodeB" : 4128,
+		"L3" : "Redbridge",
+		"Latitude" : 51.58103894744239,
+		"Longitude" : 0.11765879756410691
+	},
+	{
+		"RNC_eNodeB" : 2617,
+		"L3" : "Essex",
+		"Latitude" : 51.607255132387216,
+		"Longitude" : 0.10422381566717709
+	},
+	{
+		"RNC_eNodeB" : 465,
+		"L3" : "Ealing",
+		"Latitude" : 51.517847836202144,
+		"Longitude" : -0.31050552837492973
+	},
+	{
+		"RNC_eNodeB" : 922,
+		"L3" : "Greenwich",
+		"Latitude" : 51.457063951325196,
+		"Longitude" : 0.0505658762849385
+	},
+	{
+		"RNC_eNodeB" : 3631,
+		"L3" : "East Sussex",
+		"Latitude" : 50.7883545655195,
+		"Longitude" : 0.3030137418543613
+	},
+	{
+		"RNC_eNodeB" : 3117,
+		"L3" : "Hampshire",
+		"Latitude" : 50.847936329479815,
+		"Longitude" : -1.149014342117997
+	},
+	{
+		"RNC_eNodeB" : 9968,
+		"L3" : "Essex",
+		"Latitude" : 51.62013629531548,
+		"Longitude" : 0.34261058147804657
+	},
+	{
+		"RNC_eNodeB" : 11907,
+		"L3" : "Luton",
+		"Latitude" : 51.90830704729961,
+		"Longitude" : -0.4567628646633283
+	},
+	{
+		"RNC_eNodeB" : 12245,
+		"L3" : "Hertfordshire",
+		"Latitude" : 51.77527298822849,
+		"Longitude" : -0.21865942758381754
+	},
+	{
+		"RNC_eNodeB" : 1326,
+		"L3" : "Essex",
+		"Latitude" : 51.58455010268433,
+		"Longitude" : 0.42386223937598755
+	},
+	{
+		"RNC_eNodeB" : 1783,
+		"L3" : "Surrey",
+		"Latitude" : 51.24731338643882,
+		"Longitude" : -0.580747853326597
+	},
+	{
+		"RNC_eNodeB" : 2944,
+		"L3" : "Surrey",
+		"Latitude" : 51.24895026795049,
+		"Longitude" : -0.5660208628934539
+	},
+	{
+		"RNC_eNodeB" : 7913,
+		"L3" : "Kent",
+		"Latitude" : 51.30958757084916,
+		"Longitude" : 0.45349711231277534
+	},
+	{
+		"RNC_eNodeB" : 7440,
+		"L3" : "Hillingdon",
+		"Latitude" : 51.5708440546253,
+		"Longitude" : -0.45647638432516363
+	},
+	{
+		"RNC_eNodeB" : 12904,
+		"L3" : "Hertfordshire",
+		"Latitude" : 51.678757639536386,
+		"Longitude" : -0.33603838335392544
+	},
+	{
+		"RNC_eNodeB" : 867,
+		"L3" : "Luton",
+		"Latitude" : 51.883172483316784,
+		"Longitude" : -0.41925806283140343
+	},
+	{
+		"RNC_eNodeB" : 13174,
+		"L3" : "Westminster",
+		"Latitude" : 51.505142057876405,
+		"Longitude" : -0.15037332583391994
+	},
+	{
+		"RNC_eNodeB" : 4349,
+		"L3" : "Kensington and Chelsea",
+		"Latitude" : 51.497878624908125,
+		"Longitude" : -0.17956594680407953
+	},
+	{
+		"RNC_eNodeB" : 1107,
+		"L3" : "Kent",
+		"Latitude" : 51.272765393390365,
+		"Longitude" : 0.5175931270843298
+	},
+	{
+		"RNC_eNodeB" : 1734,
+		"L3" : "West Midlands",
+		"Latitude" : 52.48730374944796,
+		"Longitude" : -1.8934622263218088
+	},
+	{
+		"RNC_eNodeB" : 4500,
+		"L3" : "West Midlands",
+		"Latitude" : 52.50951220681675,
+		"Longitude" : -1.9926394108177676
+	},
+	{
+		"RNC_eNodeB" : 2365,
+		"L3" : "West Midlands",
+		"Latitude" : 52.59377948437494,
+		"Longitude" : -2.1558209284387453
+	},
+	{
+		"RNC_eNodeB" : 432,
+		"L3" : "West Midlands",
+		"Latitude" : 52.589179738379364,
+		"Longitude" : -1.978114525678441
+	},
+	{
+		"RNC_eNodeB" : 3356,
+		"L3" : "Staffordshire",
+		"Latitude" : 52.71824611444614,
+		"Longitude" : -2.0055377395652605
+	},
+	{
+		"RNC_eNodeB" : 1075,
+		"L3" : "Northamptonshire",
+		"Latitude" : 52.234419469958894,
+		"Longitude" : -0.8828650873974795
+	},
+	{
+		"RNC_eNodeB" : 833,
+		"L3" : "Bristol",
+		"Latitude" : 51.447677152825925,
+		"Longitude" : -2.5609931080647357
+	},
+	{
+		"RNC_eNodeB" : 3225,
+		"L3" : "Bridgend",
+		"Latitude" : 51.49707097808059,
+		"Longitude" : -3.5591448759534794
+	},
+	{
+		"RNC_eNodeB" : 4972,
+		"L3" : "Plymouth",
+		"Latitude" : 50.38278149543925,
+		"Longitude" : -4.102029635035929
+	},
+	{
+		"RNC_eNodeB" : 3128,
+		"L3" : "South Gloucestershire",
+		"Latitude" : 51.490804697161344,
+		"Longitude" : -2.4798681285513107
+	},
+	{
+		"RNC_eNodeB" : 3358,
+		"L3" : "Staffordshire",
+		"Latitude" : 52.75743352677149,
+		"Longitude" : -1.9370885978120436
+	},
+	{
+		"RNC_eNodeB" : 9002,
+		"L3" : "Northamptonshire",
+		"Latitude" : 52.207628156611364,
+		"Longitude" : -0.9339913614001344
+	},
+	{
+		"RNC_eNodeB" : 3603,
+		"L3" : "West Midlands",
+		"Latitude" : 52.41193189064352,
+		"Longitude" : -1.7931536247758086
+	},
+	{
+		"RNC_eNodeB" : 2087,
+		"L3" : "Southampton",
+		"Latitude" : 50.90793451217329,
+		"Longitude" : -1.4296311320598647
+	},
+	{
+		"RNC_eNodeB" : 9353,
+		"L3" : "Swindon",
+		"Latitude" : 51.59811047454465,
+		"Longitude" : -1.7808239780171582
+	},
+	{
+		"RNC_eNodeB" : 5285,
+		"L3" : "Leicestershire",
+		"Latitude" : 52.549093417866054,
+		"Longitude" : -1.2640696235186284
+	},
+	{
+		"RNC_eNodeB" : 877,
+		"L3" : "Bristol",
+		"Latitude" : 51.464660986059535,
+		"Longitude" : -2.5881393842523486
+	},
+	{
+		"RNC_eNodeB" : 569,
+		"L3" : "West Midlands",
+		"Latitude" : 52.59235580260012,
+		"Longitude" : -2.1141539259683393
+	},
+	{
+		"RNC_eNodeB" : 1286,
+		"L3" : "Manchester",
+		"Latitude" : 53.4788654503161,
+		"Longitude" : -2.31597886093124
+	},
+	{
+		"RNC_eNodeB" : 2013,
+		"L3" : "Stockton-on-Tees",
+		"Latitude" : 54.55719664229287,
+		"Longitude" : -1.292174704786804
+	},
+	{
+		"RNC_eNodeB" : 1960,
+		"L3" : "Merseyside",
+		"Latitude" : 53.392411370936976,
+		"Longitude" : -2.9718388597440826
+	},
+	{
+		"RNC_eNodeB" : 51691,
+		"L3" : "Halton",
+		"Latitude" : 53.40642796166515,
+		"Longitude" : -3.035388921967023
+	},
+	{
+		"RNC_eNodeB" : 4477,
+		"L3" : "Lancashire",
+		"Latitude" : 53.79507338455762,
+		"Longitude" : -2.694256733870076
+	},
+	{
+		"RNC_eNodeB" : 8916,
+		"L3" : "East Riding of Yorkshire",
+		"Latitude" : 53.79952019901015,
+		"Longitude" : -0.34132428281333865
+	},
+	{
+		"RNC_eNodeB" : 1724,
+		"L3" : "East Riding of Yorkshire",
+		"Latitude" : 53.78980407547042,
+		"Longitude" : -0.3157977297153772
+	},
+	{
+		"RNC_eNodeB" : 6007,
+		"L3" : "West Yorkshire",
+		"Latitude" : 53.79498208809126,
+		"Longitude" : -1.7659141338950108
+	},
+	{
+		"RNC_eNodeB" : 3897,
+		"L3" : "West Yorkshire",
+		"Latitude" : 53.84770390335348,
+		"Longitude" : -1.8345694623021054
+	},
+	{
+		"RNC_eNodeB" : 10739,
+		"L3" : "Halton",
+		"Latitude" : 53.367664293592235,
+		"Longitude" : -2.990733341997789
+	},
+	{
+		"RNC_eNodeB" : 1904,
+		"L3" : "Cumbria",
+		"Latitude" : 54.88830530229612,
+		"Longitude" : -2.944417305662913
+	},
+	{
+		"RNC_eNodeB" : 1837,
+		"L3" : "Hartlepool",
+		"Latitude" : 54.70354515606906,
+		"Longitude" : -1.234763798017066
+	},
+	{
+		"RNC_eNodeB" : 6703,
+		"L3" : "Hartlepool",
+		"Latitude" : 54.698353553175885,
+		"Longitude" : -1.2288763065100299
+	},
+	{
+		"RNC_eNodeB" : 2342,
+		"L3" : "North Lanarkshire",
+		"Latitude" : 55.772054567164645,
+		"Longitude" : -3.92148127268715
+	},
+	{
+		"RNC_eNodeB" : 9730,
+		"L3" : "North Yorkshire",
+		"Latitude" : 54.27693072207633,
+		"Longitude" : -0.40454584650457115
+	},
+	{
+		"RNC_eNodeB" : 2348,
+		"L3" : "Renfrewshire",
+		"Latitude" : 55.860888412644194,
+		"Longitude" : -4.417231663737081
+	},
+	{
+		"RNC_eNodeB" : 6942,
+		"L3" : "West Yorkshire",
+		"Latitude" : 53.8091256419463,
+		"Longitude" : -1.4606158550878188
+	},
+	{
+		"RNC_eNodeB" : 5072,
+		"L3" : "Merseyside",
+		"Latitude" : 53.4745401460361,
+		"Longitude" : -2.6739724393274926
+	},
+	{
+		"RNC_eNodeB" : 13271,
+		"L3" : "South Yorkshire",
+		"Latitude" : 53.518791895182346,
+		"Longitude" : -1.1363829414766
+	},
+	{
+		"RNC_eNodeB" : 4242,
+		"L3" : "Manchester",
+		"Latitude" : 53.47928265243953,
+		"Longitude" : -2.069364540389758
+	},
+	{
+		"RNC_eNodeB" : 8286,
+		"L3" : "West Yorkshire",
+		"Latitude" : 53.6548980537179,
+		"Longitude" : -1.260501290646705
+	},
+	{
+		"RNC_eNodeB" : 2743,
+		"L3" : "North Lanarkshire",
+		"Latitude" : 55.86877071420628,
+		"Longitude" : -3.9894980550250767
+	},
+	{
+		"RNC_eNodeB" : 912,
+		"L3" : "Tyne and Wear",
+		"Latitude" : 55.0043240805687,
+		"Longitude" : -1.5139448758955465
+	},
+	{
+		"RNC_eNodeB" : 7722,
+		"L3" : "North Lanarkshire",
+		"Latitude" : 55.84242519003841,
+		"Longitude" : -3.9684096440187333
+	},
+	{
+		"RNC_eNodeB" : 2526,
+		"L3" : "Renfrewshire",
+		"Latitude" : 55.86268669630729,
+		"Longitude" : -4.444977807445555
+	},
+	{
+		"RNC_eNodeB" : 11546,
+		"L3" : "Fife",
+		"Latitude" : 56.03195109968426,
+		"Longitude" : -3.3429822426884113
+	},
+	{
+		"RNC_eNodeB" : 13050,
+		"L3" : "Cheshire",
+		"Latitude" : 53.363040088823475,
+		"Longitude" : -2.7210168783637547
+	},
+	{
+		"RNC_eNodeB" : 10153,
+		"L3" : "Glasgow",
+		"Latitude" : 55.865422411185236,
+		"Longitude" : -4.223043729547153
+	},
+	{
+		"RNC_eNodeB" : 50754,
+		"L3" : "Redbridge",
+		"Latitude" : 51.58616369647587,
+		"Longitude" : 0.05240648716654987
+	},
+	{
+		"RNC_eNodeB" : 13488,
+		"L3" : "Lambeth",
+		"Latitude" : 51.4956507767181,
+		"Longitude" : -0.1038907544832016
+	},
+	{
+		"RNC_eNodeB" : 5345,
+		"L3" : "Greenwich",
+		"Latitude" : 51.501142945219854,
+		"Longitude" : 0.05375229223247099
+	},
+	{
+		"RNC_eNodeB" : 7111,
+		"L3" : "Kent",
+		"Latitude" : 51.43430523458681,
+		"Longitude" : 0.18529428397354925
+	},
+	{
+		"RNC_eNodeB" : 710,
+		"L3" : "Southwark",
+		"Latitude" : 51.49073292742163,
+		"Longitude" : -0.05036041779309695
+	},
+	{
+		"RNC_eNodeB" : 51544,
+		"L3" : "Berkshire",
+		"Latitude" : 51.53203317472687,
+		"Longitude" : -0.7245851431736371
+	},
+	{
+		"RNC_eNodeB" : 50347,
+		"L3" : "West Midlands",
+		"Latitude" : 52.482770757034125,
+		"Longitude" : -1.7346885588397767
+	},
+	{
+		"RNC_eNodeB" : 1230,
+		"L3" : "Bromley",
+		"Latitude" : 51.40671262548896,
+		"Longitude" : -0.0725870963142016
+	},
+	{
+		"RNC_eNodeB" : 49614,
+		"L3" : "West Midlands",
+		"Latitude" : 52.56509027550103,
+		"Longitude" : -1.9903943250468805
+	},
+	{
+		"RNC_eNodeB" : 49676,
+		"L3" : "West Midlands",
+		"Latitude" : 52.55100531297018,
+		"Longitude" : -1.9644455550798705
+	},
+	{
+		"RNC_eNodeB" : 49669,
+		"L3" : "Northamptonshire",
+		"Latitude" : 52.246699133973124,
+		"Longitude" : -0.826754717296865
+	},
+	{
+		"RNC_eNodeB" : 49663,
+		"L3" : "Bristol",
+		"Latitude" : 51.50299512147064,
+		"Longitude" : -2.692641984753406
+	},
+	{
+		"RNC_eNodeB" : 51642,
+		"L3" : "Staffordshire",
+		"Latitude" : 52.64716816228704,
+		"Longitude" : -1.7008285746635117
+	},
+	{
+		"RNC_eNodeB" : 50116,
+		"L3" : "Derby",
+		"Latitude" : 52.896113481444225,
+		"Longitude" : -1.4706220706462914
+	},
+	{
+		"RNC_eNodeB" : 50914,
+		"L3" : "Manchester",
+		"Latitude" : 53.55063436795604,
+		"Longitude" : -2.665219101434673
+	},
+	{
+		"RNC_eNodeB" : 50685,
+		"L3" : "Manchester",
+		"Latitude" : 53.56088647110505,
+		"Longitude" : -2.6668189832122766
+	},
+	{
+		"RNC_eNodeB" : 51084,
+		"L3" : "Derbyshire",
+		"Latitude" : 53.45531323809344,
+		"Longitude" : -1.980468458887211
+	},
+	{
+		"RNC_eNodeB" : 51084,
+		"L3" : "Derbyshire",
+		"Latitude" : 53.458925925853855,
+		"Longitude" : -1.984088979183384
+	}
+]}
